@@ -1,7 +1,6 @@
 // Показать/Скрыть стрелку на главной странице
 window.addEventListener('scroll', function() {
     let scrollArrow = window.scrollY;
-    console.log('Положение: ' + scrollArrow);
     const arrow = document.querySelector('.intro__line');
     
     if (scrollArrow > 100) {
