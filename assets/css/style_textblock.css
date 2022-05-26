@@ -1,0 +1,174 @@
+.block_box {
+    display: flex;
+    align-items: center; /* Выравнивание по вертикали */
+    padding: 0 20px;
+    justify-content: space-between;
+    text-align: center; /* Выравние по горизонтали */
+}
+
+.block_box > .col_10 {
+    flex: none;
+}
+
+.block__text {
+    display: inline-block;
+    font-weight: 400; /* Вес - толщина */
+    color: #552a14;
+    text-decoration: none; /* Убрать подчеркивание снизу*/
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.block__box__text {
+    font-size: 16px;
+    z-index: 3;
+/*    max-width: 450px;*/
+    font-family: 'Open Sans', sans-serif;
+    width: auto;
+    padding: 20px 20px 20px 20px;
+    margin: 30px 0px;
+    background: #fff;
+    color: #552a14;
+    border-radius: 11px;
+    border: 2px solid #7753a3;
+    box-shadow: 0 0 10px #444;  /* Тень */
+}
+
+.block__box__text > img {
+    max-width: 200px;
+    /*width: 200px;*/
+    height: auto;
+    
+    border-radius: 11px;
+}
+
+.block__box__text > h1 {
+    padding: 0px 20px 20px 0px;
+    color: #552a14;
+}
+
+.block__box__text > table {
+    height: auto;
+}
+
+.block__box__text > table > thead {
+    font-weight: 700; /* Вес - толщина */
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    text-align: left;
+    font-weight: 400; /* Вес - толщина */
+    padding: 2px 10px;
+}
+
+/* Таблица с содержанием только видео */
+.table__video {
+    border: 2px solid white;
+}
+
+.table__video tr td {
+    border: 2px solid white;
+    padding: 15px 0px 0px 0px;
+}
+
+/* Таблица с содержанием изображений */
+.table__image {
+    border: 2px solid white;
+}
+.table__image tr td {
+    border: 2px solid white;
+    padding: 15px 0px 0px 0px;
+}
+.table__image tr td img {
+    max-width: 250px;
+    max-height: 200px;
+    height: auto;
+    
+    border-radius: 11px;
+    border: 2px solid;
+    
+    cursor: pointer;
+}
+
+/* Заголовок контента таблицы */
+.table__content__head > td {
+    text-align: center;
+    font-weight: 600; /* Вес - толщина */
+    
+    border-bottom: 0.1px solid white;
+    padding: 7px 0px 2px;
+    font-style: italic;
+    
+}
+
+/* Окно информирования */
+.info {    
+    color: #552a14;
+    border-style: dashed;   /* Тип рамки */
+    border-radius: 0.7em;   /* Закругление по краям */
+    
+    padding: 10px 30px; /* Внутренний отступ*/
+/*    margin: 0px 20px 0px 20px;  Внешний отступ */
+    
+    font-size: 16px;
+    text-align: left;
+    
+    margin-bottom: 7px;
+}
+
+/* Текст окна информирования */
+.info__text {
+    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600; /* Вес - толщина */
+    text-align: center;
+    text-decoration: none; /* Убрать подчеркивание снизу*/
+    color: #552a14;
+}
+
+/* Красная строка для абзадцев */
+.red_line {
+    text-indent: 25px;
+}
+
+/* Ссылки в тексте */
+.url__link {
+    display: inline-block;
+    font-weight: 600; /* Вес - толщина */
+    color: #552a14;
+    text-decoration: none; /* Убрать подчеркивание снизу*/
+    cursor: pointer;
+}
+.url__link:hover { /* При наведение */
+    font-weight: 700; /* Вес - толщина */
+    transition: .2s; /* Плавная смена цвета при наведение*/
+}
+
+/* Настройка цвета заливки элементов */
+.green {
+    background-color: #C1E7D8;
+}
+.red {
+    background-color: #FBDAE6;
+}
+.yellow {
+    background-color: #F4EFE7;
+}
+.purple {
+    background-color: #dedafb;
+}
+.blue {
+    background-color: #d2ebf8;
+}
+.white {
+    background-color: #fff;
+}

@@ -1,0 +1,895 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    
+    font-size: 15px;
+    color: #552a14;
+    line-height: 1.6; /* Меж строчный интервал */
+}
+
+/* Для всех страниц */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+/* Все заголовки */
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    font-family: Neucha !important;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Настройка столбцов */
+.col_1 {
+    flex: 0 0 8.33%;
+    max-width: 8.33%;
+}
+.col_2 {
+    flex: 0 0 16.67%;
+    max-width: 16.67%;
+}
+.col_3 {
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+.col_4 {
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+}
+.col_5 {
+    flex: 0 0 41.67%;
+    max-width: 41.67%;
+}
+.col_6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.col_7 {
+    flex: 0 0 58.33%;
+    max-width: 58.33%;
+}
+.col_8 {
+    flex: 0 0 66.67%;
+    max-width: 66.67%;
+}
+.col_9 {
+    flex: 0 0 75%;
+    max-width: 75%;
+}
+.col_10 {
+    flex: 0 0 83.33%;
+    max-width: 83.33%;
+}
+.col_11 {
+    flex: 0 0 91.67%;
+    max-width: 91.67%;
+}
+.col_12 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+/* Контейнер */ 
+.container {
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;     /* Выравнить по центру */
+    
+}
+
+/* Интро - титульник */
+.intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Выравнять по центру */
+    
+    width: 100%;
+    height: 100vh;      /* Вся динамич высота */
+    
+    background: url("../images/intro.png") center no-repeat; /* Фон + по центру + без повторов */
+    background-size: cover; /* Чтобы занимало всё пространство*/
+}
+
+/* Интро - контейнер для фото и надписи */
+.intro__inner {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+/* Титульник - заголовок */
+.intro__logo {
+    width: 100%;
+    display: flex;
+    margin: 0 auto 90px;
+}
+
+/* Титульник - заголовок */
+.intro__title {
+    color: #552a14;
+    font-size: 29px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 1.5;
+}
+
+/* Титульник - полоска (псевдо элемент) */
+.intro__title::after {
+    content: "";
+    display: block;
+    width: 97%;
+    height: 3px;
+    margin: 15px auto 0;
+    
+    background-color: #552a14;
+}
+
+/* Титульник - стрелка вниз (псевдо элемент) */
+.intro__line {
+    content: "";
+    display: block;
+    
+    width: 40px;
+    height: 40px;
+    border-top: 4px solid #552a14;
+    border-right: 4px solid #552a14;
+    
+    position: absolute; /* Отрываем от всего */
+    bottom: 5%; /* Положение от низа */
+    right: 50%; /* Положение от правого края */
+    z-index: 1;
+    
+    transform: translate(100%) rotate(135deg); /* повернуть на 135 градусов */
+}
+
+/* Фон каждой страницы */
+.background__page {
+    display: flex;
+    flex-direction: column;
+    /*justify-content: center; /* Выравнять по центру */
+    
+    width: 100%;
+    height: 100vh;      /* Вся динамич высота */
+    
+    background: url("/assets/images/intro.png") center no-repeat; /* Фон + по центру + без повторов */
+    background-size: cover; /* Чтобы занимало всё пространство*/
+    background-attachment: fixed;
+    overflow: auto;
+}
+
+/* Шапка */
+.header {
+    width: 97%;
+    max-width: 1280px;
+    
+    border-radius: 65px;
+    box-shadow: 0 0 10px #444;  /* Тень */
+    background-color: #ffd2bf;
+    margin: 0 auto;
+    
+    position: fixed;
+    top: 30px; /* положение от верха  */
+    left: 0;
+    right: 0;
+    z-index: 1000; /* По верх всего*/
+    
+}
+
+/* Шапка - положение элементов */
+.header__top {
+    height: 65px;
+    
+    display: flex; /* Отобразить в строку */
+    justify-content: space-between;
+    align-items: center; /* Вертикаль - по центру */
+}
+
+/* Шапка - логотип */
+.header__logo {
+    font-size: 14px;
+    font-weight: 700; /* Вес - толщина */
+    color: #552a14;
+    height: inherit;    /* На всю высоту шапки*/
+    display: inline-flex; /* Отобразить в строку */
+    width: 200px;
+}
+
+/* Шапка - логотип - Текст*/
+.header__logo a {    
+    display: inline-block;
+    align-self: center; /* Вертикаль - по центру */
+    text-align: center;   /* Выравнивание - по левому краю */
+    padding-left: 10px;
+    
+    color: #552a14;
+    font-weight: 700; /* Вес - толщина */
+    text-decoration: none; /* Убрать подчеркивание снизу*/
+    transition: color 0.2s ease; /* Плавное отображение */
+}
+
+/* Шапка - логотип - Лого*/
+.header__logo img {
+    content: "";
+    border: 2px #552a14 solid;
+    
+    border-radius: 100%;    /* Закругление краев */
+    width: 52px; /* Сжатие картинки */
+    height: 52px;
+    margin: auto 0 auto 9px;  /* Отступ от края шапки */
+    cursor: pointer;    /* Знак курсора при наведение */
+}
+
+/* Шапка - для слабовидящих */
+.header__vision {
+    box-sizing: inherit;
+    font-size: 12px;
+    font-weight: 700; /* Вес - толщина */
+    color: #552a14;
+    width: 170px;
+    height: inherit;
+    
+    display: inline-flex; /* Отобразить в строку */
+    /*justify-content: flex-end;*/
+}
+
+/* Шапка - для слабовидящих - Текст*/
+.header__vision a {
+    display: inline-block;
+    align-self: center; /* Вертикаль - по центру */
+    text-align: left;   /* Выравнивание - по левому краю */
+    padding-right: 10px;
+    
+    color: #552a14;
+    font-weight: 700; /* Вес - толщина */
+    text-decoration: none; /* Убрать подчеркивание снизу*/
+    transition: color 0.2s ease; /* Плавное отображение */
+}
+
+.header__top > div > a:hover { /* При наведение */
+    color: #a99387; /* Цвет ссылки */
+    transition: .2s; /* Плавное отображение*/
+}
+
+/* Шапка - для слабовидящих - Лого*/
+.header__vision img {
+    content: "";
+    border: 2px black solid;
+    
+    border-radius: 100%;    /* Закругление краев */
+    width: 52px; /* Сжатие картинки */
+    height: 52px;
+    padding: 3%;   /* отступ по краям от картинки до стенки */
+    background-color: #c3edf0;
+    margin: auto 9px auto 0;  /* Отступ от края шапки */
+    cursor: pointer;    /* Знак курсора при наведение */
+}
+
+
+/* Шапка - навигация */
+.nav {
+    font-size: 15px;
+    text-transform: uppercase; /* Текст в вверхнем регистре*/
+    font-weight: 700;
+}
+
+/* Шапка - навигация - ссылки */
+.nav__link {
+    display: inline-block; /* Полоска */
+    vertical-align: top;    /* Все шли в строку*/
+    margin: 0 15px; /* Растояние между ссылками*/
+    position: relative;
+    
+    color: #552a14;
+    text-decoration: none; /* Убрать подчеркивание снизу*/
+    
+    /* Плавная смена цвета при наведение*/
+    transition: color .2s linear;
+}
+
+/* Шапка - навигация - ссылки [Наведение] */
+.nav__link::after {
+    content: ""; /* Пустой элемент */
+    display: block;
+    width: 100%;
+    height: 2px;
+    opacity: 0; /* Первоначально скрыть полосу*/
+    
+    background-color: #a99387; /* Цвет полоски */
+    position: absolute; /* Позиция относительно ссылки */
+    top: 100%;
+    left: 0;
+    z-index: 1;
+    
+    /* Плавное отображение*/
+    transition: opacity .2s linear;
+}
+
+.nav__link:hover { /* При наведение */
+    color: #a99387; /* Цвет ссылки */
+}
+
+.nav__link:hover::after { /* ОТОБРАЗИТЬ При наведение */
+    opacity: 1;
+}
+
+/* Меню - главная часть*/
+.section__yellow {
+    padding: 80px 0; /*Отступы в разделе*/
+    background-color: #f1ddb7;
+}
+/* Меню - главная часть*/
+.section__white {
+    padding: 80px 0; /*Отступы в разделе*/
+    background-color: #fff;
+}
+.section__purple {
+    padding: 80px 0; /*Отступы в разделе*/
+    background-color: #dedafb;
+}
+.section__blue {
+    padding: 80px 0; /*Отступы в разделе*/
+    background-color: #d2ebf8;
+}
+
+/* Меню */
+.section {
+    margin-bottom: 40px; 
+    width: 100%;
+    margin: 0 auto 40px; /* Выравнивание по середине + Отступ между заголовком и телом */
+    max-width: 950px; /* max ширина контента */
+    
+    text-align: center;
+}
+
+/* Меню - Заголовок */
+.section__title{
+    font-family: Neucha !important;
+    font-size: 40px;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+
+/* Меню - каждый Аккордион*/
+.menu__item {
+    margin-bottom: 7px;
+    background-color: white;
+    border-radius: 0.7em; /* Закругление по краям */
+}
+
+/* Меню - отображение контента*/
+.menu__item.active 
+.menu__content
+{
+    display: block;
+}
+
+/* Меню - отображение ссылок*/
+.menu__item.active 
+.menu__link
+{
+    display: block;
+}
+
+/* Меню - отображение ссылок*/
+.menu__item.active 
+.menu__info
+{
+    display: block;
+}
+
+/* Меню - отображение иконки*/
+.menu__item.active 
+.menu__header_slider::after {
+    transform: translateY(-50%) rotate(-45deg);
+    margin-top: 10px;
+}
+
+/* Меню - Аккордин - Заголовок */
+.menu__header {
+    padding: 10px 20px;
+    position: relative;
+    cursor: pointer;
+}
+/* Меню - Аккордин - Заголовок */
+.menu__header > a {
+    display: flex;
+    justify-items: start;
+    align-items: center;
+}
+
+/* Меню - Аккордин - Заголовок */
+.menu__header_slider {
+    padding: 10px 20px;
+    position: relative;
+    cursor: pointer;
+}
+
+/* Меню - Аккордион - Иконка заголовка*/
+.menu__header_slider::after {
+    content: "";
+    display: block;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    
+    top: 40%;
+    right: 20px;
+    z-index: 1;
+    transform: translateY(-50%) rotate(135deg);
+    
+    border-top: 3px solid #552a14;
+    border-right: 3px solid #552a14;
+}
+
+.menu__header_slider:hover::after { /* При наведение */
+    border-color: #a99387; /* Цвет ссылки */
+    transition: .2s; /* Плавная смена цвета при наведение*/
+}
+
+/* Меню - Аккордион - Текст заголовка*/
+.menu__title {
+    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600; /* Вес - толщина */
+    padding-right: 40px;
+    text-align: left;
+    text-decoration: none; /* Убрать подчеркивание снизу*/
+    color: #552a14;
+}
+
+.menu__title:hover {
+    color: #a99387; /* Цвет ссылки */
+    transition: .2s; /* Плавная смена цвета при наведение*/
+}
+
+.menu__link {    
+    display: none;
+    color: #552a14;
+    text-decoration: none; /* Убрать подчеркивание снизу*/
+    
+    padding: 0px 60px 8px 50px; /* Внутренний отступ*/
+    
+    font-size: 16px;
+    text-align: left;
+}
+
+/* Меню - ссылка - полоска */
+.menu__link::before {
+    content: "";
+    display: block;
+    z-index: 1;
+    
+    border-top: 2px solid #a99387;
+    margin: 0 0 7px; /* Растояние между ссылкой и полосой*/
+}
+
+/* Меню - ссылка - последний элемент */
+.menu__link:last-child {
+    padding-bottom: 15px;
+}
+
+.menu__link:hover { /* При наведение */
+    font-weight: 700; /* Вес - толщина */
+    transition: .2s; /* Плавная смена цвета при наведение*/
+}
+
+/* Окно информирования при раскрытие слайдера */
+.menu__info {    
+    display: none;
+    color: #552a14;
+    text-decoration: none;  /* Убрать подчеркивание снизу*/
+    border-style: dashed;   /* Тип рамки */
+    border-radius: 7px;     /* Закругление рамки */
+    
+    padding: 10px; /* Внутренний отступ*/
+    margin: 0px 20px 0px 20px; /* Внешний отступ */
+    
+    font-size: 16px;
+    text-align: left;
+}
+
+/* Меню - Аккордион - Текст/Контент */
+.menu__content {
+    padding: 15px 20px; /* Внутренний отступ*/
+    font-size: 18px;
+    display: none;
+    text-align: left;
+    margin: auto 0 auto 20px; /* отступ слева */
+}
+
+/* Настройка цвета текста */
+.text__blue {
+    color: #008bdc;
+}
+.text__green {
+    color: #00ac68;
+}
+.text__purple {
+    color: #7753a3;
+}
+.text__pink {
+    color: #c62689;
+}
+.text__orange {
+    color: #fb8a3c;
+}
+.text__red {
+    color: #ff6b6a;
+}
+
+/* Настройка цвета заливки элементов */
+.body_green {
+    background-color: #C1E7D8;
+}
+.body_yellow {
+    background-color: #F4EFE7;
+}
+
+/* Коронавирус */
+.coronavirus {
+    display: flex;
+    margin: 0 25px;
+}
+
+.mask {
+    position: absolute;
+    z-index: 1;
+}
+
+.mask > img {
+    max-width: 100%;
+    height: auto;
+}
+
+.subtitle {
+    font-size: 18px;
+    line-height: 1.6; /* Меж строчный интервал */
+    margin-bottom: 50px;
+}
+
+.coronavirus__table {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.coronavirus__table > li {
+    padding-left: 10px;
+    padding-right: 20px;
+}
+
+.coronavirus__title {
+    position: relative;
+    font-size: 18px;
+    font-weight: 600; /* Вес - толщина */
+}
+
+.coronavirus__title::before {
+    content: "";
+    position: absolute;
+    background: url(../images/radiovoln.png) no-repeat;
+    z-index: 1;
+    
+    height: 29px;
+    width: 29px;
+    
+    top: -15px;
+    left: -20px;
+}
+
+.coronavirus__box__top {
+    display: flex;
+    padding-top: 150px;
+    justify-content: flex-end;
+}
+
+.coronavirus__box {
+    font-size: 18px;
+    position: relative;
+    z-index: 3;
+    width: 100%;
+    max-width: 400px;
+    padding: 100px 25px 25px 25px;
+    background: #008bdc;
+    color: #fff;
+    border-radius: 11px;
+}
+
+.virus {
+    position: absolute;
+    top: 25px;
+    left: 40px;
+}
+
+/* Блок - Псих-педагогич памятки */
+.memo {
+    display: flex;
+    align-items: center; /* Выравнивание по вертикали */
+    padding: 0 20px;
+    justify-content: space-between;
+    
+    text-align: center; /* Выравние по горизонтали */
+}
+
+.memo > .col_4 {
+    flex: none;
+}
+
+.memo__box {
+    font-size: 16px;
+    z-index: 3;
+    /*width: 350px;*/
+    max-width: 350px;
+    padding: 20px 20px 20px 20px;
+    background: #fff;
+    color: #552a14;
+    border-radius: 11px;
+    border: 2px solid #7753a3;
+    box-shadow: 0 0 10px #444;  /* Тень */
+    
+    cursor: pointer;
+}
+
+.memo__link {
+    display: inline-block;
+    font-weight: 600; /* Вес - толщина */
+    color: #552a14;
+    text-decoration: none; /* Убрать подчеркивание снизу*/
+    padding-top: 10px;
+}
+
+.memo__box > img {
+    max-width: 200px;
+    /*width: 200px;*/
+    height: auto;
+    
+    border-radius: 11px;
+}
+
+.memo__box:hover {
+    box-shadow: 0 0 30px #444;  /* Тень */
+    transition: .2s; /* Плавная смена цвета при наведение*/
+}
+
+
+/* Информ-образовательные ресурсы */
+.nation {
+    display: flex;
+    align-items: center; /* Выравнивание по вертикали */
+    padding: 0 20px;
+    justify-content: space-between;
+    
+    text-align: center; /* Выравние по горизонтали */
+}
+
+.nation__item {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+/* При наведение мышкой на картинку */
+.nation__item:hover > .nation__logo > img {
+    opacity: .2;
+}
+.nation__item:hover > .nation__logo {
+    transform: scale(1.2);
+}
+.nation__item:hover > .nation__text {
+    opacity: 1;
+}
+
+.nation__logo {
+    background: #fff;
+    /* Плавность увеличения */
+    transition: transform .2s linear;
+}
+
+.nation__logo > img {
+    transition: opacity .1s linear;
+    max-width: 150px;
+    height: auto;
+    
+    box-shadow: 0 0 10px #444;  /* Тень */
+    /*border: 2px solid green;*/
+    border-radius: 11px;
+}
+
+.nation__text {
+    position: absolute;
+    width: 100%;
+    z-index: 5;
+    left: 0;
+    
+    /* Выравнивание по вертикали*/
+    top: 50%;
+    transform: translate(0, -50%);
+    
+    color: #552a14;
+    font-size: 17px;
+    font-weight: 600; /* Вес - толщина */
+    text-decoration: none; /* Убрать подчеркивание снизу*/
+    
+    opacity: 0; /* Скрыть */
+    transition: opacity .2s linear; /* Плавное отображение - opacity*/
+}
+
+/* Блок - Памятки справочной службы */
+.help__desk {
+    display: flex;
+    align-items: center; /* Выравнивание по вертикали */
+    padding: 0 20px;
+    justify-content: space-between;
+    
+    text-align: center; /* Выравние по горизонтали */
+}
+.help__desk img {
+    max-width: auto;
+    /*width: 200px;*/
+    max-height: 320px;
+    
+    border-radius: 11px;
+    cursor: pointer;
+}
+
+
+/* Блок - Обратная связь */
+.section__feedback {
+    padding: 20px 0; /*Отступы в разделе*/
+    margin: 75px auto;
+    max-width: 1000px;
+    background-color: #d2ebf8;
+    border-radius: 75px;
+}
+
+.feedback {
+    display: flex;
+    align-items: center; /* Выравнивание по вертикали */
+    padding: 0 20px;
+    /*justify-content: space-between;*/
+    
+    text-align: center; /* Выравние по горизонтали */
+}
+
+.feedback__title {
+    font-family: Neucha !important;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.feedback__text > p {
+    margin: 0 auto 20px;
+    font-weight: 600; /* Вес - толщина */
+}
+
+.feedback > .col_4 {
+    position: relative;
+}
+
+.feedback__logo {
+    position: absolute;
+    background: url(../images/feedback.png);
+    background-size: cover;
+    
+    height: 300px;
+    width: 314px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.feedback_button {
+    cursor: pointer;
+    
+    height: 50px;
+    max-width: 550px;
+    padding: 0 75px;
+    margin: 0;
+    
+    background-color: #fb8a3c;
+    border: none;
+    border-radius: 80px;
+    
+    font-size: 17px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    color: #552a14;
+    
+    transition: background .2s linear;
+}
+
+.feedback_button:hover {
+    box-shadow: 0 0 0 4px #fb8a3c inset;
+    background: #f6ef9c;
+}
+
+/* Футер */
+.footer {
+    padding: 40px 0; /*Отступы в разделе*/
+    background-color: #f1ddb7;
+}
+
+.footer__block {
+    display: flex;
+    margin: 0 25px;
+}
+
+.footer__head{
+    font-family: Neucha !important;
+    font-size: 40px;
+    text-transform: uppercase;
+
+}
+
+.footer__block > .col_5 > .footer__head {
+    text-align: center;
+}
+
+.footer__table {
+    display: contents;
+    list-style: none;
+}
+
+.footer__table > li {
+    padding-left: 10px;
+    padding-right: 20px;
+}
+
+.footer__title {
+    position: relative;
+    font-size: 18px;
+    font-weight: 600; /* Вес - толщина */
+}
+
+/*
+.footer__title::before {
+    content: "";
+    position: absolute;
+    background: url(../images/radiovoln.png) no-repeat;
+    z-index: 1;
+    
+    height: 29px;
+    width: 29px;
+    
+    top: -15px;
+    left: -20px;
+}
+*/
+
+.footer__table > li > p {
+    margin: 0 0 20px 20px;
+}
+
+.footer__map {
+/*    border: 3px solid red;*/
+    height: 100%;
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

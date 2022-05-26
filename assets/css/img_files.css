@@ -1,0 +1,99 @@
+
+/* При наведение мышкой на картинку */
+/*
+.nation__item:hover > .item__logo > img {
+    opacity: .2;
+}
+.nation__item:hover > .item__logo {
+    transform: scale(1.2);
+}
+.nation__item:hover > .nation__text {
+    opacity: 1;
+}
+*/
+
+.item__logo:hover {
+    color: #a99387; /* Цвет ссылки */
+    transform: scale(1.2);
+    transition: .2s; /* Плавная смена цвета при наведение*/
+}
+
+.item__logo {
+    /* Плавность увеличения */
+    transition: transform .2s linear;
+    margin: auto 15px auto 0px; /* Кривое выравнивание по вертикали */
+}
+
+.item__logo > img {
+    transition: opacity .1s linear;
+    max-width: 40px;
+    height: auto;
+    
+    /* box-shadow: 0 0 10px #444;  /* Тень */
+    /*border: 2px solid green;*/
+    border-radius: 11px;
+}
+
+/* Стиль для настройки расположения в одну строку*/
+.item__one__row {
+    display: flex;
+    justify-items: start;
+    align-items: center;
+}
+
+
+/* картинка на странице */
+.image__minimized:hover {
+    box-shadow: 0 0 10px #444;  /* Тень */
+}
+/* увеличенная картинка */
+#image__magnify {
+    display: none;
+    position: fixed;
+    max-height: 80vh;
+    height: auto;
+    z-index: 9999;
+    overflow: auto;
+}
+#image__magnify img {
+    width: 100%;
+}
+/* затемняющий фон */
+#ground__overlay {
+    display: none;
+    background: #000;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0.5;
+    z-index: 9990;
+}
+/* кнопка закрытия */
+#close-popup {
+    width: 30px;
+    height: 30px;
+    background: #FFFFFF;
+    border: 1px solid #AFAFAF;
+    border-radius: 15px;
+    cursor: pointer;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+#close-popup i {
+    width: 28px;
+    height: 28px;
+    background: url(https://codernote.ru/files/cross.png) no-repeat center center;
+    background-size: 16px 16px;
+    display: block;
+}
+@keyframes rota {
+    25% { transform: rotate(360deg); }
+}
+#close-popup:hover {
+    animation: rota 4s infinite normal;
+    -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+}
