@@ -13,11 +13,22 @@ window.addEventListener('scroll', function() {
 
 
 // Раскрытие/Закрытие меню по клику
- $(document).ready(function(){
+$(document).ready(function(){
 	$('.menu__item').click(function () {
 		$(this).toggleClass('active');
     });
- });
+});
+
+
+// Обработчик кликов
+addEventListener('click', function () {
+	// Клик на глаз
+	if(document.getElementById('special') != null) {
+		document.getElementById('header').style.marginTop = "40px";
+	} else {
+		document.getElementById('header').style.marginTop = null;
+	}
+});
 
 
 // Увеличение картинки по клику

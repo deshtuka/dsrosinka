@@ -73,15 +73,34 @@
             t = _objectSpread({}, posOptionsInitialBanner25),
             n = document.getElementById("js-show-iframe-wrapper"),
             r = n ? n.offsetWidth : document.body.offsetWidth;
-        if (r > 308) t["bg-url"] = "url('https://pos.gosuslugi.ru/bin/banner-fluid/25/banner-fluid-bg-25-1.svg')", t["bg-url-position"] = "center calc(100% + 22px)";
-        if (r > 340) t["button-wrap-max-width"] = "206px";
-        if (r > 568) t["grid-template-columns"] = "1fr 292px", t["grid-template-rows"] = "100%", t["content-grid-row"] = "1", t["content-padding"] = "32px 24px", t["bg-url"] = "url('https://pos.gosuslugi.ru/bin/banner-fluid/25/banner-fluid-bg-25-2.svg')", t["bg-url-position"] = "center bottom";
-        if (r > 610) t["bg-url"] = "url('https://pos.gosuslugi.ru/bin/banner-fluid/25/banner-fluid-bg-25-1.svg')", t["bg-url-position"] = "calc(50% + 29px) calc(100% + 25px)";
-        if (r > 782) t["grid-template-columns"] = "1fr 400px";
-        if (r > 820) t["grid-template-columns"] = "1fr 420px", t["bg-url-position"] = "center -12px";
-        if (r > 1098) t["grid-template-columns"] = "1fr 557px", t["text-font-size"] = "28px", t["content-padding"] = "32px 32px 32px 50px", t["logo-width"] = "78px", t["slogan-font-size"] = "15px", t["logo-wrap-padding"] = "20px 16px 16px";
-        if (r > 1300) t["content-padding"] = "32px 40px 32px 140px", t["bg-url-position"] = "center calc(100% + 33px)";
-        if (r > 1422) t["max-width"] = "1422px", t["grid-template-columns"] = "1fr 720px", t["text-font-size"] = "32px", t.background = "linear-gradient(90deg, #50b3ff 50%, #ffffff 50%)";
+        // if (r > 308) t["bg-url"] = "url('https://pos.gosuslugi.ru/bin/banner-fluid/25/banner-fluid-bg-25-1.svg')", t["bg-url-position"] = "center calc(100% + 22px)";
+        // if (r > 340) t["button-wrap-max-width"] = "206px";
+        // if (r > 568) t["grid-template-columns"] = "1fr 292px", t["grid-template-rows"] = "100%", t["content-grid-row"] = "1", t["content-padding"] = "32px 24px", t["bg-url"] = "url('https://pos.gosuslugi.ru/bin/banner-fluid/25/banner-fluid-bg-25-2.svg')", t["bg-url-position"] = "center bottom";
+        // if (r > 610) t["bg-url"] = "url('https://pos.gosuslugi.ru/bin/banner-fluid/25/banner-fluid-bg-25-1.svg')", t["bg-url-position"] = "calc(50% + 29px) calc(100% + 25px)";
+        // if (r > 782) t["grid-template-columns"] = "1fr 400px";
+        // if (r > 820) t["grid-template-columns"] = "1fr 420px", t["bg-url-position"] = "center -12px";
+        // if (r > 1098) t["grid-template-columns"] = "1fr 557px", t["text-font-size"] = "28px", t["content-padding"] = "32px 32px 32px 50px", t["logo-width"] = "78px", t["slogan-font-size"] = "15px", t["logo-wrap-padding"] = "20px 16px 16px";
+        // if (r > 1300) t["content-padding"] = "32px 40px 32px 140px", t["bg-url-position"] = "center calc(100% + 33px)";
+        // if (r > 1422) t["max-width"] = "1422px", t["grid-template-columns"] = "1fr 720px", t["text-font-size"] = "32px", t.background = "linear-gradient(90deg, #50b3ff 50%, #ffffff 50%)";
+
+        // Костыль для избежания динамического бага --> Чтобы вернуть назад, раскомментировать ИФЫ выше и убрать этот словарь!
+        t = {
+            'grid-template-columns': '1fr 557px',
+            'grid-template-rows': '100%',
+            'max-width': '100%',
+            'text-font-size': '28px',
+            'text-margin': '0 0 24px 0',
+            'button-wrap-max-width': '206px',
+            'content-padding': '32px 32px 32px 50px',
+            'content-grid-row': '1',
+            'bg-url-position': 'center -12px',
+            'bg-url': 'url("https://pos.gosuslugi.ru/bin/banner-fluid/25/banner-fluid-bg-25-1.svg")',
+            'logo-wrap-padding': '20px 16px 16px',
+            'logo-width': '78px',
+            'logo-wrap-top': '0',
+            'logo-wrap-right': '0',
+            'slogan-font-size': '15px'
+        };
         setStyles(t, e)
     }
     changePosBannerOnResize(), window.addEventListener("resize", changePosBannerOnResize), window.onunload = function() {

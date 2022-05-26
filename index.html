@@ -34,6 +34,9 @@
     -->
     <!-- Виджет госуслуг -->
     <script src='https://pos.gosuslugi.ru/bin/script.min.js'></script>
+    <!-- Версия для слабовидящих -->
+    <script src="https://lidrekon.ru/slep/js/uhpv-full.min.js"></script>
+    <!-- Заголовок -->
     <title>Дс №10 "Росинка"</title>
 </head>
     
@@ -52,12 +55,14 @@
     </div>
     -->
     
-    <header class="header">
+    <header class="header" id="header">
         <div class="container">
             <div class="header__top">
                 <div class="header__logo">
-                    <img src="/assets/images/logo.jpg" href="#" alt="Детский сад №10 Росинка">
-                    <a href="#">Детский сад №10 "Росинка"</a>
+                    <a href="#">
+                        <img src="/assets/images/logo.jpg" alt="Детский сад №10 Росинка"/>
+                        Детский сад №10 "Росинка"
+                    </a>
                 </div>
                 <nav class="nav">
                     <a class="nav__link" href="#menu">Карта сайта</a>
@@ -66,8 +71,10 @@
                     <a class="nav__link" href="/pages/menu/health.html">Здоровье</a>
                 </nav>
                 <div class="header__vision">
-                    <a href="#">Версия для слабовидящих</a>
-                    <img src="/assets/images/finevision.png" href="#" alt="Версия для слабовидящих">
+                    <a id="specialButton" href="#">
+                        Версия для слабовидящих
+                        <img src="/assets/images/finevision.png" alt="Версия для слабовидящих"/>
+                    </a>
                 </div>
             </div>
         </div>
@@ -314,7 +321,7 @@
         <div class="container">
             <div id='js-show-iframe-wrapper'>
                 <div class='pos-banner-fluid bf-25'>
-                    <div class='bf-25__decor'>
+                    <div class='bf-25__decor' style="max-height: 262px">
                       <div class='bf-25__logo-wrap'>
                         <img
                           class='bf-25__logo'

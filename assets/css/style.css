@@ -198,6 +198,8 @@ p {
     height: inherit;    /* На всю высоту шапки*/
     display: inline-flex; /* Отобразить в строку */
     width: 200px;
+
+    position: relative;
 }
 
 /* Шапка - логотип - Текст*/
@@ -205,7 +207,7 @@ p {
     display: inline-block;
     align-self: center; /* Вертикаль - по центру */
     text-align: center;   /* Выравнивание - по левому краю */
-    padding-left: 10px;
+    padding-left: 60px;
     
     color: #552a14;
     font-weight: 700; /* Вес - толщина */
@@ -223,6 +225,11 @@ p {
     height: 52px;
     margin: auto 0 auto 9px;  /* Отступ от края шапки */
     cursor: pointer;    /* Знак курсора при наведение */
+
+    position: absolute;
+    top: 50%;
+    left: 12%;
+    transform: translate(-50%, -50%);
 }
 
 /* Шапка - для слабовидящих */
@@ -236,6 +243,7 @@ p {
     
     display: inline-flex; /* Отобразить в строку */
     /*justify-content: flex-end;*/
+    position: relative;
 }
 
 /* Шапка - для слабовидящих - Текст*/
@@ -268,6 +276,11 @@ p {
     background-color: #c3edf0;
     margin: auto 9px auto 0;  /* Отступ от края шапки */
     cursor: pointer;    /* Знак курсора при наведение */
+
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    transform: translate(-50%, -50%);
 }
 
 
