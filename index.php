@@ -10,7 +10,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
     <link rel="shortcut icon" href="https://minecraftlist.com/servers/play.asuramc.tk/icon.png" type="image/x-icon">
     <!-- jQuery -->
-    <script src="//yandex.st/jquery/1.9.1/jquery.min.js"></script>
+    <script src="https://yandex.st/jquery/1.9.1/jquery.min.js"></script>
     
     <!-- Всплывающее окно уведомления на главной странице -->
     <!-- 
@@ -54,31 +54,7 @@
         </div>
     </div>
     -->
-    
-    <header class="header" id="header">
-        <div class="container">
-            <div class="header__top">
-                <div class="header__logo">
-                    <a href="#">
-                        <img src="/assets/images/logo.jpg" alt="Детский сад №10 Росинка"/>
-                        Детский сад №10 "Росинка"
-                    </a>
-                </div>
-                <nav class="nav">
-                    <a class="nav__link" href="#menu">Карта сайта</a>
-                    <a class="nav__link" href="/pages/menu/news.html">Новости</a>
-                    <a class="nav__link" href="/pages/menu/contacts.html">Контакты</a>
-                    <a class="nav__link" href="/pages/menu/health.html">Здоровье</a>
-                </nav>
-                <div class="header__vision">
-                    <a id="specialButton" href="#">
-                        Версия для слабовидящих
-                        <img src="/assets/images/finevision.png" alt="Версия для слабовидящих"/>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </header>
+    <?php include ("menu.php"); ?>
 
     <div class="intro">
         <div class="container">
@@ -99,58 +75,58 @@
                         <div class="menu__header_slider">
                             <div class="menu__title">Сведения об образовательной организации</div>
                         </div>
-                        <a class="menu__link" href="/pages/organizaciya/osnovnye_svedeniya.html">Основные сведения</a>
-                        <a class="menu__link" href="/pages/organizaciya/struktury_i_organy_upravleniya.html">Структура и органы управления</a>
-                        <a class="menu__link" href="/pages/organizaciya/dokumenty.html">Документы</a>
-                        <a class="menu__link" href="/pages/organizaciya/obrazovanie.html">Образование</a>
-                        <a class="menu__link" href="/pages/organizaciya/obrazovatelnye_standarty.html">Образовательные стандарты</a>
-                        <a class="menu__link" href="/pages/organizaciya/rukovodstvo_i_pedagogicheskij_sostav.html">Руководство и педагогический состав</a>
-                        <a class="menu__link" href="/pages/organizaciya/materialno_tekhnicheskoe_obespechenie.html">Материально-техническое обеспечение и оснащенность образовательного процесса</a>
-                        <a class="menu__link" href="/pages/organizaciya/finansovo_hozyajstvennaya_deyatelnost.html">Финансово-хозяйственная деятельность</a>
-                        <a class="menu__link" href="/pages/organizaciya/vakansii_mesta_dlya_priema.html">Вакансии места для приема (перевода)</a>
-                        <a class="menu__link" href="/pages/organizaciya/rebenok_imeet_pravo.html">Ребенок имеет право</a>
-                        <a class="menu__link" href="/pages/organizaciya/stipendii_i_inye_vidy_materialnoj_podderzhki.html">Стипендии и иные виды материальной поддержки</a>
-                        <a class="menu__link" href="/pages/organizaciya/dostupnaya_sreda.html">Доступная среда</a>
-                        <a class="menu__link" href="/pages/organizaciya/mezhdunarodnoe_sotrudnichestvo.html">Международное сотрудничество</a>
+                        <a class="menu__link" href="/pages/organizaciya/osnovnye_svedeniya.php">Основные сведения</a>
+                        <a class="menu__link" href="/pages/organizaciya/struktury_i_organy_upravleniya.php">Структура и органы управления</a>
+                        <a class="menu__link" href="/pages/organizaciya/dokumenty.php">Документы</a>
+                        <a class="menu__link" href="/pages/organizaciya/obrazovanie.php">Образование</a>
+                        <a class="menu__link" href="/pages/organizaciya/obrazovatelnye_standarty.php">Образовательные стандарты</a>
+                        <a class="menu__link" href="/pages/organizaciya/rukovodstvo_i_pedagogicheskij_sostav.php">Руководство и педагогический состав</a>
+                        <a class="menu__link" href="/pages/organizaciya/materialno_tekhnicheskoe_obespechenie.php">Материально-техническое обеспечение и оснащенность образовательного процесса</a>
+                        <a class="menu__link" href="/pages/organizaciya/finansovo_hozyajstvennaya_deyatelnost.php">Финансово-хозяйственная деятельность</a>
+                        <a class="menu__link" href="/pages/organizaciya/vakansii_mesta_dlya_priema.php">Вакансии места для приема (перевода)</a>
+                        <a class="menu__link" href="/pages/organizaciya/rebenok_imeet_pravo.php">Ребенок имеет право</a>
+                        <a class="menu__link" href="/pages/organizaciya/stipendii_i_inye_vidy_materialnoj_podderzhki.php">Стипендии и иные виды материальной поддержки</a>
+                        <a class="menu__link" href="/pages/organizaciya/dostupnaya_sreda.php">Доступная среда</a>
+                        <a class="menu__link" href="/pages/organizaciya/mezhdunarodnoe_sotrudnichestvo.php">Международное сотрудничество</a>
                     </div>
                     <div class="menu__item">
                         <div class="menu__header">
-                            <a class="menu__title" href="/pages/ohrana_truda.html">Охрана труда</a>
+                            <a class="menu__title" href="/pages/ohrana_truda.php">Охрана труда</a>
                         </div>
                     </div>
                     <div class="menu__item">
                         <div class="menu__header">
-                            <a class="menu__title" href="/pages/meals_at_DOU.html">Организация питания в ДОУ</a>
+                            <a class="menu__title" href="/pages/meals_at_DOU.php">Организация питания в ДОУ</a>
                         </div>
                     </div>
                     <div class="menu__item">
                         <div class="menu__header">
-                            <a class="menu__title" href="/pages/pravila_priema_i_otchisleniya_vospitannikov.html">Правила приема и отчисления воспитанников</a>
+                            <a class="menu__title" href="/pages/pravila_priema_i_otchisleniya_vospitannikov.php">Правила приема и отчисления воспитанников</a>
                         </div>
                     </div>
                     <div class="menu__item">
                         <div class="menu__header">
-                            <a href="/pages/normativno_pravovye_materialy.html" class="menu__title">Нормативно-правовые материалы</a>
+                            <a href="/pages/normativno_pravovye_materialy.php" class="menu__title">Нормативно-правовые материалы</a>
                         </div>
                     </div>
                     <div class="menu__item">
                         <div class="menu__header">
-                            <a href="/pages/informacionnaya_bezopasnost.html" class="menu__title">Информационная безопасность</a>
+                            <a href="/pages/informacionnaya_bezopasnost.php" class="menu__title">Информационная безопасность</a>
                         </div>
                     </div>
                     <div class="menu__item">
                         <div class="menu__header">
-                            <a href="/pages/protivodejstvie_korrupcii.html" class="menu__title">Противодействие коррупции</a>
+                            <a href="/pages/protivodejstvie_korrupcii.php" class="menu__title">Противодействие коррупции</a>
                         </div>
                     </div>
                     <div class="menu__item">
                         <div class="menu__header">
-                            <a href="/pages/portal_PFDO.html" class="menu__title">Портал персонифицированного дополнительного образования Приморского края</a>
+                            <a href="/pages/portal_PFDO.php" class="menu__title">Портал персонифицированного дополнительного образования Приморского края</a>
                         </div>
                     </div>
                     <div class="menu__item">
                         <div class="menu__header">
-                            <a href="/pages/nezavisimaya_ocenka_kachestva_obrazovaniya.html" class="menu__title">Независимая оценка качества образования</a>
+                            <a href="/pages/nezavisimaya_ocenka_kachestva_obrazovaniya.php" class="menu__title">Независимая оценка качества образования</a>
                         </div>
                     </div>
                 </div>
@@ -211,7 +187,7 @@
                     </div>
                 </div>
                 <div class="col_4">
-                    <div class="memo__box" onclick="location.href='/pages/other/okazanie_psihologo_pedagogicheskoj_pomoshchi.html';">
+                    <div class="memo__box" onclick="location.href='pages/other/okazanie_psihologo_pedagogicheskoj_pomoshchi.php';">
                         <img src="/assets/images/memo_2.jpg">
                         <a class="memo__link">"Оказание психолого-педагогической помощи несовершеннолетним, родителям (законным представителям)"</a>
                     </div>
