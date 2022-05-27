@@ -11,25 +11,37 @@ window.addEventListener('scroll', function() {
     }
 });
 
-
-// Раскрытие/Закрытие меню по клику
-$(document).ready(function(){
-	$('.menu__item').click(function () {
-		$(this).toggleClass('active');
-    });
+// Обработчик кликов. Клик по любому элементу
+addEventListener('click', function () {
+	checkAndOffsetMenu();
 });
 
+// Обработчик загрузки страницы. Действие после загрузки
+document.addEventListener('DOMContentLoaded', function() {
+	checkAndOffsetMenu();
+}, false);
 
-// Обработчик кликов
-addEventListener('click', function () {
-	// Клик на глаз
+// Раскрытие/Закрытие меню по клику
+let menuItem = document.getElementsByClassName("menu__item");
+for (let i = 0; i < menuItem.length; i++) {
+	menuItem[i].addEventListener('click', function() {
+		let item = menuItem[i];
+		if(item.classList.contains("active")) {
+			item.classList.remove("active");
+		} else {
+			item.classList.add("active");
+		}
+	}, false);
+}
+
+// Функция - проверка и смещение меню. Если вкл режим "слабовидящ" смещение на 40px, в противном случае null
+function checkAndOffsetMenu() {
 	if(document.getElementById('special') != null) {
 		document.getElementById('header').style.marginTop = "40px";
 	} else {
 		document.getElementById('header').style.marginTop = null;
 	}
-});
-
+}
 
 // Увеличение картинки по клику
 $(function(){
