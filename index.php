@@ -99,11 +99,11 @@
                             <a class="menu__title" href="/pages/meals_at_DOU.php">Организация питания в ДОУ</a>
                         </div>
                     </div>
-                    <div class="menu__item">
-                        <div class="menu__header">
-                            <a class="menu__title" href="/pages/pravila_priema_i_otchisleniya_vospitannikov.php">Правила приема и отчисления воспитанников</a>
-                        </div>
-                    </div>
+<!--                    <div class="menu__item">-->
+<!--                        <div class="menu__header">-->
+<!--                            <a class="menu__title" href="/pages/pravila_priema_i_otchisleniya_vospitannikov.php">Правила приема и отчисления воспитанников</a>-->
+<!--                        </div>-->
+<!--                    </div>-->
                     <div class="menu__item">
                         <div class="menu__header">
                             <a href="/pages/normativno_pravovye_materialy.php" class="menu__title">Нормативно-правовые материалы</a>
