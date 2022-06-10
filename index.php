@@ -11,6 +11,8 @@
     <link rel="shortcut icon" href="https://minecraftlist.com/servers/play.asuramc.tk/icon.png" type="image/x-icon">
     <!-- jQuery -->
     <script src="https://yandex.st/jquery/1.9.1/jquery.min.js"></script>
+    <!-- Google Analytics -->
+    <?php include ("google_analytics.php"); ?>
     
     <!-- Всплывающее окно уведомления на главной странице -->
     <!-- 
