@@ -13,27 +13,6 @@
     <script src="https://yandex.st/jquery/1.9.1/jquery.min.js"></script>
     <!-- Google Analytics -->
     <?php include ("google_analytics.php"); ?>
-    
-    <!-- Всплывающее окно уведомления на главной странице -->
-    <!-- 
-    <script src="/arcticmodal/jquery.arcticmodal.js"></script>
-    <link rel="stylesheet" href="/arcticmodal/jquery.arcticmodal.css">
-    <link rel="stylesheet" href="/arcticmodal/themes/simple.css">
-    <script src="//yandex.st/jquery/cookie/1.0/jquery.cookie.min.js"></script>
-    <script>
-        (function($) {
-        $(function() {
-
-            // Покажем всплывающее окно
-            $('#boxUserFirstInfo').arcticmodal({
-                closeOnOverlayClick: false,
-                closeOnEsc: true
-            });
-
-        })
-        })(jQuery)
-    </script>
-    -->
     <!-- Виджет госуслуг -->
     <script src='https://pos.gosuslugi.ru/bin/script.min.js'></script>
     <!-- Версия для слабовидящих -->
@@ -43,19 +22,6 @@
 </head>
     
 <body>
-    
-    <!-- Всплывающее окно уведомления на главной странице -->
-    <!--
-    <div style="display: none;">
-        <div class="box-modal" id="boxUserFirstInfo">
-            <div class="box-modal_close arcticmodal-close">закрыть</div>
-            <b>Добрый день!</b><br>
-            <br>В связи с тяжелой ситуацией в стране, старая версия сайта ограничена функционалом без возможности продления, из-за чего новая версия сайта находится в разработке и некоторые функции и папки сейчас могут быть не доступны.
-            <br><br>Старый сайт доступен по следующей ссылке:<br>
-            <a href="https://rosinkadetskiysad.wixsite.com/rosinka">https://rosinkadetskiysad.wixsite.com/rosinka</a><br><br>Администрация ДС №10 приносит свои извинения за доставленные не удобства
-        </div>
-    </div>
-    -->
     <?php include ("menu.php"); ?>
 
     <div class="intro">
