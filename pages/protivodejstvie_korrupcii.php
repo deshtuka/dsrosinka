@@ -38,6 +38,62 @@
                                         <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1GU9VD6Na5X5Hf0aj0KTQK2_ujNaTUa0M/view?usp=sharing">Памятка "Мы против коррупции в образовании!"</a>
                                     </div>
                                 </div>
+                                <div class="menu__item body_yellow">
+                                    <div class="menu__header item__one__row">
+                                        <div class="item__logo">
+                                            <img src="/assets/images/file_icon/pdf.png">
+                                        </div>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1HlpxW21_k0Q8SM_C-ybOcsrdTB8ghQ1m/view?usp=sharing">Антикоррупционная политика МБДОУ Дс№10 Росинка с. Спасское</a>
+                                    </div>
+                                </div>
+                                <div class="menu__item body_yellow">
+                                    <div class="menu__header item__one__row">
+                                        <div class="item__logo">
+                                            <img src="/assets/images/file_icon/pdf.png">
+                                        </div>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1lNpJxUkkLdGdmfWUU89VncYfj9Sg5mnQ/view?usp=sharing">Кодекс этики</a>
+                                    </div>
+                                </div>
+                                <div class="menu__item body_yellow">
+                                    <div class="menu__header item__one__row">
+                                        <div class="item__logo">
+                                            <img src="/assets/images/file_icon/pdf.png">
+                                        </div>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1DxsyqM4Q3dxFngAUiPclRfiBJEQWOuEa/view?usp=sharing">Перечень антикоррупционных мероприятий</a>
+                                    </div>
+                                </div>
+                                <div class="menu__item body_yellow">
+                                    <div class="menu__header item__one__row">
+                                        <div class="item__logo">
+                                            <img src="/assets/images/file_icon/pdf.png">
+                                        </div>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1Ek8ObgxPZhe0rpNyoqd2bmRvCNBHJhHE/view?usp=sharing">Положение о конфликте интересов педагогического работника МБДОУ Дс№10 Росинка с. Спасское</a>
+                                    </div>
+                                </div>
+                                <div class="menu__item body_yellow">
+                                    <div class="menu__header item__one__row">
+                                        <div class="item__logo">
+                                            <img src="/assets/images/file_icon/pdf.png">
+                                        </div>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1f5JJv-20pcJDv5CDkbji8D3iA0uSlJlI/view?usp=sharing">Положение о порядке информирования работодателя о ставшей известной работнику информации о коррупции</a>
+                                    </div>
+                                </div>
+                                <div class="menu__item body_yellow">
+                                    <div class="menu__header item__one__row">
+                                        <div class="item__logo">
+                                            <img src="/assets/images/file_icon/pdf.png">
+                                        </div>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/12RY-ivllhbCbsosRzpXCicXU60RFMBre/view?usp=sharing">Порядок уведомления работодателя о ставших известными работнику случиях коррупции</a>
+                                    </div>
+                                </div>
+                                <div class="menu__item body_yellow">
+                                    <div class="menu__header item__one__row">
+                                        <div class="item__logo">
+                                            <img src="/assets/images/file_icon/pdf.png">
+                                        </div>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/129AauJtpyMY7bsx6k6lSpfAluBWZ3NOm/view?usp=sharing">Правила обмена деловыми подарками и знаками делового гостеприимства МБДОУ Дс№10 Росинка с. Спасское</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
