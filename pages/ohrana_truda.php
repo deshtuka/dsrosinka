@@ -32,10 +32,17 @@
                             <div class="menu">
                                 <div class="menu__item body_green">
                                     <div class="menu__header_slider">
-                                        <div class="menu__title">Результаты специальной оценки условий труда за 2022 год</div>
+                                        <div class="menu__title">Результаты специальной оценки условий труда за 2022.2 год</div>
                                     </div>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1EsdYry4vkrewal7ZNz0v-e1lrfY15LU9/view?usp=sharing">Сводная ведомость результатов проведения СОУТ 2022 год</a>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1wuvvRk06sRlpSalQnYQEy9q7u_3eT2bd/view?usp=sharing">Заключение экспертной организации проводившей СОУТ 2022 год</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1o7dEkwEOZxD19KE0FDqNXQPNO1OfQ5YW/view?usp=sharing">Сводная ведомость результатов проведения СОУТ 2022.2 год</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1GclSML8xB2ZoaXug83zncpgY2Hc8LUcx/view?usp=sharing">Заключение экспертной организации проводившей СОУТ 2022.2 год</a>
+                                </div>
+                                <div class="menu__item body_green">
+                                    <div class="menu__header_slider">
+                                        <div class="menu__title">Результаты специальной оценки условий труда за 2022.1 год</div>
+                                    </div>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1EsdYry4vkrewal7ZNz0v-e1lrfY15LU9/view?usp=sharing">Сводная ведомость результатов проведения СОУТ 2022.1 год</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1wuvvRk06sRlpSalQnYQEy9q7u_3eT2bd/view?usp=sharing">Заключение экспертной организации проводившей СОУТ 2022.1 год</a>
                                 </div>
                                 <div class="menu__item body_green">
                                     <div class="menu__header_slider">
@@ -72,13 +79,6 @@
                                     </div>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1i7UXKLZMVJda-kMVUGnZzVoKS21tlIPK/view?usp=sharing">Сводная ведомость результатов проведения СОУТ 2018 год</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/15_JunnoTuhGljw5yHLz8m9_SNbIjfGBH/view?usp=sharing">Заключение экспертной организации проводившей СОУТ 2018 год</a>
-                                </div>
-                                <div class="menu__item body_green">
-                                    <div class="menu__header_slider">
-                                        <div class="menu__title">Результаты специальной оценки условий труда за 2017 год</div>
-                                    </div>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1dvqJjdojowxZCogD3RdJIf_29rxNniWp/view?usp=sharing">Сводная ведомость результатов проведения СОУТ 2017 год</a>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1T2VifLKD5HeKO4ycBNGeeSyqkO3cS3Fe/view?usp=sharing">Заключение экспертной организации проводившей СОУТ 2017 год</a>
                                 </div>
                             </div>
                         </div>
