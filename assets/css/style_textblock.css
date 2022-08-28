@@ -140,6 +140,14 @@ th {
     text-indent: 25px;
 }
 
+/* Перечисление элементов в тексте */
+.info__text > blockquote {
+    font-size: 14px;
+    text-align: left;
+    margin-bottom: -9px;
+    text-indent: -9px;
+}
+
 /* Ссылки в тексте */
 .url__link {
     display: inline-block;
