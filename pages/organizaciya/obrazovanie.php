@@ -117,14 +117,6 @@
                                         <div class="item__logo">
                                             <img src="/assets/images/file_icon/pdf.png">
                                         </div>
-                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1lqJy0UbWieBvj6M3yowdxiq05ZG7G-yE/view?usp=sharing">Вариативная часть представлена программой: «Как жить в мире с собой и другими»</a>
-                                    </div>
-                                </div>
-                                <div class="menu__item body_yellow">
-                                    <div class="menu__header item__one__row">
-                                        <div class="item__logo">
-                                            <img src="/assets/images/file_icon/pdf.png">
-                                        </div>
                                         <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/17zok5vE0vzFKoa4c5h05BFMJR8abrfgE/view?usp=sharing">Расписание НОД на 2021 -2022 уч. год</a>
                                     </div>
                                 </div>
@@ -157,20 +149,28 @@
                                         <div class="item__logo">
                                             <img src="/assets/images/file_icon/pdf.png">
                                         </div>
-                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1JyJkkD6VUAE831BLKlHRe4AEF9qwdTEr/view?usp=sharing">Рабочая программа Воспитания на 2021-2022 учебный год</a>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/17jHPhlFuyReXg-3SfLlSqmWt5xTGPdAp/view?usp=sharing">Изменения и дополнения к основной образовательной программе МБДОУ «ДС№10 «Росинка» с. Спасское</a>
+                                    </div>
+                                </div>
+                                <div class="menu__item body_yellow">
+                                    <div class="menu__header item__one__row">
+                                        <div class="item__logo">
+                                            <img src="/assets/images/file_icon/pdf.png">
+                                        </div>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1r_OInroOVo0bGmLHu7wzcKv9r5LBL3La/view?usp=sharing">Рабочая программа Воспитания на 2022-2023 учебный год</a>
                                     </div>
                                 </div>
 
                                 <div class="menu__item body_green">
                                     <div class="menu__header_slider">
-                                        <div class="menu__title">Рабочие программы для детей дошкольного возраста</div>
+                                        <div class="menu__title">Рабочие программы для детей дошкольного возраста (2022-2023г)</div>
                                     </div>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1fxrAp1AZcu1ECDJqaRQYZwjTGRhKSEyc/view?usp=sharing">Рабочая программа по музыкальному воспитанию 2021-2022 учебный год</a>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/19aAmpHbq0UgHrdHN3xSPXBBXwsdiNZMX/view?usp=sharing">Рабочая программа для детей раннего возраста 1,6-3 лет с пояснительной запиской и аннотацией</a>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1FBDqRCN72jlyDQy73DcTE3qzadRkdHXY/view?usp=sharing">Рабочая программа для детей младшего возраста 3-4 лет с пояснительной запиской и аннотацией</a>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1TI4zfusTqtvQCx8x5pJS2L2yap7_8P5U/view?usp=sharing">Рабочая программа для детей среднего возраста 4-5 лет с пояснительной запиской и аннотацией</a>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1XV9SD1UTr7Inbz04LJv1u-kSwgXu7911/view?usp=sharing">Рабочая программа для детей старшего возраста 5-6 лет с пояснительной запиской и аннотацией</a>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1H_wx3gk6mGXrPjJeQXZVWhsZNYWc2Hzu/view?usp=sharing">Рабочая программа детей подготовительной к школе группы с пояснительной запиской и аннотацией</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1fxrAp1AZcu1ECDJqaRQYZwjTGRhKSEyc/view?usp=sharing">Рабочая программа по музыкальному воспитанию 2022-2023 учебный год</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1bGyS-zImSlIMbS0MDQlPyvqTKh83mNSi/view?usp=sharing">Рабочая программа для детей раннего возраста 1,5-3 лет с пояснительной запиской и аннотацией</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1H4GvtkX8cOlRchbLDqdQIi0skwcASjBV/view?usp=sharing">Рабочая программа для детей младшего возраста 3-4 лет с пояснительной запиской и аннотацией</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1T2P4ECIIGG4D0V79uJfsy61MFUMtQMTT/view?usp=sharing">Рабочая программа для детей среднего возраста 4-5 лет с пояснительной запиской и аннотацией</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/199ktkhsx74g0d9HLIh8M8JXq-8Dd6y1E/view?usp=sharing">Рабочая программа для детей старшего возраста 5-6 лет с пояснительной запиской и аннотацией</a>
+                                    <!--<a class="menu__link" target="_blank" href="">Рабочая программа детей подготовительной к школе группы с пояснительной запиской и аннотацией</a>-->
                                 </div>
 
                                 <div class="menu__item body_green">
