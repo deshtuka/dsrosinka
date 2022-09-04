@@ -117,7 +117,7 @@
                                         <div class="item__logo">
                                             <img src="/assets/images/file_icon/pdf.png">
                                         </div>
-                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/17zok5vE0vzFKoa4c5h05BFMJR8abrfgE/view?usp=sharing">Расписание НОД на 2021 -2022 уч. год</a>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1q2mbBKF210GMytd6YDCbUD6kwduWiEqb/view?usp=sharing">Расписание НОД на 2022-2023 уч. год</a>
                                     </div>
                                 </div>
                                 <div class="menu__item body_yellow">
@@ -125,15 +125,7 @@
                                         <div class="item__logo">
                                             <img src="/assets/images/file_icon/pdf.png">
                                         </div>
-                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1Q7YWIV5R9mlgtNCawXXt62UkqtN2fUFQ/view?usp=sharing">Учебный план с пояснителльной запиской на 2021- 2022 уч. год</a>
-                                    </div>
-                                </div>
-                                <div class="menu__item body_yellow">
-                                    <div class="menu__header item__one__row">
-                                        <div class="item__logo">
-                                            <img src="/assets/images/file_icon/pdf.png">
-                                        </div>
-                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1mrSowKXz2W-ag0-sc5Gvbk6ueqRvpTmd/view?usp=sharing">Годовой календарный график на 2021- 2022 учебный год</a>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1b1cred8nEb2ABBWRUt2o4FCopZg6usbB/view?usp=sharing">Годовой календарный график на 2022-2023 учебный год</a>
                                     </div>
                                 </div>
                                 <div class="menu__item body_yellow">
@@ -170,15 +162,16 @@
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1H4GvtkX8cOlRchbLDqdQIi0skwcASjBV/view?usp=sharing">Рабочая программа для детей младшего возраста 3-4 лет с пояснительной запиской и аннотацией</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1T2P4ECIIGG4D0V79uJfsy61MFUMtQMTT/view?usp=sharing">Рабочая программа для детей среднего возраста 4-5 лет с пояснительной запиской и аннотацией</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/199ktkhsx74g0d9HLIh8M8JXq-8Dd6y1E/view?usp=sharing">Рабочая программа для детей старшего возраста 5-6 лет с пояснительной запиской и аннотацией</a>
-                                    <!--<a class="menu__link" target="_blank" href="">Рабочая программа детей подготовительной к школе группы с пояснительной запиской и аннотацией</a>-->
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/14AUUL-eHElkGb1Up6Lo6ecRHcGM4p8AC/view?usp=sharing">Рабочая программа детей подготовительной к школе группы с пояснительной запиской и аннотацией</a>
                                 </div>
 
                                 <div class="menu__item body_green">
                                     <div class="menu__header_slider">
                                         <div class="menu__title">«Программы дополнительного образования»</div>
                                     </div>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1qcwJyN2NF44RXQPcCeJ9ocYjUdczuK8g/view?usp=sharing">Программа по развитию творческих способностей детей дошкольного возраста «Фантазеры»</a>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1YJuHC2ZWoczLJ2KfjTPGuKhPcv9eJqdc/view?usp=sharing">Программа по обучению детей дошкольного возраста игре в шашки «Умная шашка»</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/11zknm1IV3A0MWLtug3iKoM0VZvxq5y3h/view?usp=sharing">Программа по развитию творческих способностей детей дошкольного возраста «Фантазеры»</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/12MlnbNaNmaSI7oyUlotrAmURWEclMF6-/view?usp=sharing">Программа по развитию творческих способностей детей дошкольного возраста «Волшебный завиток»</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1OliloLrIJ0CzrmroD9c98nwq5nUOqlgy/view?usp=sharing">Программа по обучению детей дошкольного возраста игре в шашки «Умная шашка»</a>
                                 </div>
 
                             </div>

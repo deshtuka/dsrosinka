@@ -97,6 +97,21 @@
                                     </table>
                                 </div>
 
+                                <div class="menu__item body_green">
+                                    <div class="menu__header_slider">
+                                        <div class="menu__title">Меню питания (05-09 сентября)</div>
+                                    </div>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1f2jQ-Kvi46CzZOFrk1ua0bLihCA7XaHo/view?usp=sharing">Меню на 5-6 сентября 2022г</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1sblyrkuGxWrFRv44ZbZRRR6s2PHCpabc/view?usp=sharing">Меню на 7-8 сентября 2022г</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1jYjzqccYx108h8C4T4CAK5LNjr01fqAW/view?usp=sharing">Меню на 9 сентября 2022г</a>
+                                </div>
+                                <div class="menu__item body_green">
+                                    <div class="menu__header_slider">
+                                        <div class="menu__title">Меню питания (01-02 сентября)</div>
+                                    </div>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1mmNVKOcoiLUy4hsiIGt3Xer-ZjnVRkb_/view?usp=sharing">Меню на 1-2 сентября 2022г</a>
+                                </div>
+
                             </div>
                         </div>
                     </div>
