@@ -157,7 +157,7 @@
                                     <div class="menu__header_slider">
                                         <div class="menu__title">Рабочие программы для детей дошкольного возраста (2022-2023г)</div>
                                     </div>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1fxrAp1AZcu1ECDJqaRQYZwjTGRhKSEyc/view?usp=sharing">Рабочая программа по музыкальному воспитанию 2022-2023 учебный год</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/18R0vC4vMOA9gg3s75Eg8-aI6KRXeid5W/view?usp=sharing">Рабочая программа по музыкальному воспитанию 2022-2023 учебный год</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1bGyS-zImSlIMbS0MDQlPyvqTKh83mNSi/view?usp=sharing">Рабочая программа для детей раннего возраста 1,5-3 лет с пояснительной запиской и аннотацией</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1H4GvtkX8cOlRchbLDqdQIi0skwcASjBV/view?usp=sharing">Рабочая программа для детей младшего возраста 3-4 лет с пояснительной запиской и аннотацией</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1T2P4ECIIGG4D0V79uJfsy61MFUMtQMTT/view?usp=sharing">Рабочая программа для детей среднего возраста 4-5 лет с пояснительной запиской и аннотацией</a>
