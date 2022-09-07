@@ -4,6 +4,7 @@
         <meta charset="UTF-8">
         <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
         <link rel="stylesheet" type="text/css" href="/assets/css/style_textblock.css">
+        <link rel="stylesheet" type="text/css" href="/assets/css/style_accordion.css">
         <link rel="stylesheet" type="text/css" href="/assets/css/img_files.css">
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Neucha&display=swap" rel="stylesheet">
@@ -97,20 +98,21 @@
                                     </table>
                                 </div>
 
-                                <div class="menu__item body_green">
-                                    <div class="menu__header_slider">
-                                        <div class="menu__title">Меню питания (05-09 сентября)</div>
+                                <nav>
+                                    <div class="menu__item body_green">
+                                        <details class="tree-nav__item is-expandable">
+                                            <summary class="tree-nav__item-title">Ежедневное меню</summary>
+
+                                            <details class="tree-nav__item is-expandable">
+                                                <summary class="tree-nav__item-title">Сентябрь 2022</summary>
+                                                <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1KsYm2rmAxEOdNLumuLslXGsdpsN7nRIv/view?usp=sharing">с 1 по 9 сентября</a>
+                                                </div>
+                                            </details>
+
+                                        </details>
                                     </div>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1f2jQ-Kvi46CzZOFrk1ua0bLihCA7XaHo/view?usp=sharing">Меню на 5-6 сентября 2022г</a>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1sblyrkuGxWrFRv44ZbZRRR6s2PHCpabc/view?usp=sharing">Меню на 7-8 сентября 2022г</a>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1jYjzqccYx108h8C4T4CAK5LNjr01fqAW/view?usp=sharing">Меню на 9 сентября 2022г</a>
-                                </div>
-                                <div class="menu__item body_green">
-                                    <div class="menu__header_slider">
-                                        <div class="menu__title">Меню питания (01-02 сентября)</div>
-                                    </div>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1mmNVKOcoiLUy4hsiIGt3Xer-ZjnVRkb_/view?usp=sharing">Меню на 1-2 сентября 2022г</a>
-                                </div>
+                                </nav>
 
                             </div>
                         </div>

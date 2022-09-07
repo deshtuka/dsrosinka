@@ -1,0 +1,136 @@
+/*
+ Only custom marker for summary/details
+ For cross browser compatible styling hide Firefox's marker by setting summary { display: block }
+ and Chrome and Safari's marker by setting ::-webkit-details-marker {display: none;}
+*/
+/* Заголовок (menu__title) не раскрытой части */
+summary {
+    display: block;
+    cursor: pointer;
+    outline: 0;
+
+    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600; /* Вес - толщина */
+    padding-right: 40px;
+    text-align: left;
+    text-decoration: none; /* Убрать подчеркивание снизу*/
+    color: #552a14;
+    white-space: nowrap;
+}
+summary:hover {
+    color: #a99387; /* Цвет ссылки */
+    transition: .2s; /* Плавная смена цвета при наведение*/
+}
+
+summary::-webkit-details-marker {
+    display: none;
+}
+
+/* Текст внутри блока div */
+.tree-nav__item {
+    white-space: nowrap;
+    position: relative;
+    color: #552a14;
+    text-decoration: none; /* Убрать подчеркивание снизу*/
+
+    font-size: 16px;
+    text-align: left;
+}
+
+/* Полоска над ссылками (горизонтальная) */
+.tree-nav__item > a::before {
+    content: "";
+    display: block;
+    z-index: 1;
+
+    border-top: 2px solid #a99387;
+    margin: 0 0 7px; /* Растояние между ссылкой и полосой*/
+}
+
+/*!* Полоска отступов (вертикальная) *!*/
+/*.tree-nav__item.is-expandable::before {*/
+/*    border-left: 1px solid #333;*/
+/*    content: "";*/
+/*    left: 1.5rem;*/
+/*    position: absolute;*/
+/*    top: 2.4rem;*/
+/*    height: calc(100% - 3rem);*/
+/*}*/
+
+/* Отступ между полосками вертикальными */
+.tree-nav__item .tree-nav__item {
+    margin-left: 1.6rem;
+}
+
+/* Отступ каждого пункта заголовка */
+.tree-nav__item.is-expandable > .tree-nav__item-title {
+    padding-left: 1rem;
+}
+/* Отступ каждого пункта ссылки */
+.tree-nav__item.is-expandable > .tree-nav__item > a {
+    padding-left: 2rem;
+}
+
+/* Стрелка - Ситуация: Список закрыт */
+.tree-nav__item.is-expandable > .tree-nav__item-title::before {
+    content: "";
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+
+    top: 18px;
+    right: 20px;
+    z-index: 1;
+    transform: translateY(-50%) rotate(135deg);
+
+    border-top: 3px solid #552a14;
+    border-right: 3px solid #552a14;
+
+}
+.tree-nav__item.is-expandable > .tree-nav__item-title:hover::before { /* При наведение */
+    border-color: #a99387; /* Цвет ссылки */
+    transition: .2s; /* Плавная смена цвета при наведение*/
+}
+/* Стрелка - Ситуация: Список открыт */
+.tree-nav__item.is-expandable[open] > .tree-nav__item-title::before {
+    transform: translateY(-50%) rotate(-45deg);
+    margin-top: 10px;
+}
+.tree-nav__item.is-expandable[open] > .tree-nav__item-title:hover::before { /* При наведение */
+    border-color: #a99387; /* Цвет ссылки */
+    transition: .2s; /* Плавная смена цвета при наведение*/
+}
+
+/* Текст заголовков*/
+.tree-nav__item-title {
+    cursor: pointer;
+    display: block;
+    outline: 0;
+    /*color: #3c781c;*/
+    font-size: 22px;
+    line-height: 2.8rem;
+}
+.tree-nav__item-title::-webkit-details-marker {
+    display: none;
+}
+
+/* Текст ссылок (menu__link)*/
+.tree-nav__item > a {
+    cursor: pointer;
+    display: block;
+    outline: 0;
+    color: #552a14;
+    text-decoration: none; /* Убрать подчеркивание снизу*/
+
+    padding-bottom: 8px;
+    padding-right: 60px;
+    font-size: 16px;
+    text-align: left;
+    line-height: 1.6rem;
+}
+.tree-nav__item > a:hover { /* При наведение */
+    font-weight: 700; /* Вес - толщина */
+    transition: .2s; /* Плавная смена цвета при наведение*/
+}
