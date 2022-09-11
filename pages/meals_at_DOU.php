@@ -106,6 +106,9 @@
                                             <details class="tree-nav__item is-expandable">
                                                 <summary class="tree-nav__item-title">Сентябрь 2022</summary>
                                                 <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1Vluqt3gDUMt_KqSw__Bhp_zfkquQr3F2/view?usp=sharing">с 26 по 30 сентября</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1MM9Keg0wuRB34RKeghxU5N0DzKWgb8Kc/view?usp=sharing">с 19 по 23 сентября</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/16FVYzglnaFd6ohrgmFOHq5FLBEb8r3YR/view?usp=sharing">с 12 по 16 сентября</a>
                                                     <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1KsYm2rmAxEOdNLumuLslXGsdpsN7nRIv/view?usp=sharing">с 1 по 9 сентября</a>
                                                 </div>
                                             </details>
