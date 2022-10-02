@@ -104,6 +104,13 @@
                                             <summary class="tree-nav__item-title">Ежедневное меню</summary>
 
                                             <details class="tree-nav__item is-expandable">
+                                                <summary class="tree-nav__item-title">Октябрь 2022</summary>
+                                                <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1ZvgunPNf7xJJK1q2j2qX7wHLnylVSxhR/view?usp=sharing">с 3 по 7 октября</a>
+                                                </div>
+                                            </details>
+
+                                            <details class="tree-nav__item is-expandable">
                                                 <summary class="tree-nav__item-title">Сентябрь 2022</summary>
                                                 <div class="tree-nav__item">
                                                     <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1Vluqt3gDUMt_KqSw__Bhp_zfkquQr3F2/view?usp=sharing">с 26 по 30 сентября</a>
