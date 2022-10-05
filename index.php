@@ -59,6 +59,11 @@
                     </div>
                     <div class="menu__item">
                         <div class="menu__header">
+                            <a class="menu__title" href="/pages/nastavnichestvo.php">Наставничество</a>
+                        </div>
+                    </div>
+                    <div class="menu__item">
+                        <div class="menu__header">
                             <a class="menu__title" href="/pages/ohrana_truda.php">Охрана труда</a>
                         </div>
                     </div>
