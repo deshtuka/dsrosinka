@@ -104,8 +104,19 @@
                                             <summary class="tree-nav__item-title">Ежедневное меню</summary>
 
                                             <details class="tree-nav__item is-expandable">
+                                                <summary class="tree-nav__item-title">Ноябрь 2022</summary>
+                                                <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1mIqESJUeI3BZmCQ5LmIOR6I10X2nXU9l/view?usp=sharing">с 7 по 11 ноября</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1p2RJPTCermyyDgMImmv_EWb6X47vw392/view?usp=sharing">с 31 октября по 3 ноября</a>
+                                                </div>
+                                            </details>
+
+                                            <details class="tree-nav__item is-expandable">
                                                 <summary class="tree-nav__item-title">Октябрь 2022</summary>
                                                 <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1XUMaCRkfdcJ9R47u8kDi5mdNP1j2WAjz/view?usp=sharing">с 24 по 28 октября</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1DGuzsZ4y9mxzEeKZKUit7IbbsV_hDSi9/view?usp=sharing">с 17 по 21 октября</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/14QquQYZelgUc3KhzGsdOZmyveUrf3hLf/view?usp=sharing">с 10 по 14 октября</a>
                                                     <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1ZvgunPNf7xJJK1q2j2qX7wHLnylVSxhR/view?usp=sharing">с 3 по 7 октября</a>
                                                 </div>
                                             </details>
