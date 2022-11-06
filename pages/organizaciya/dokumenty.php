@@ -84,7 +84,7 @@
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1kgHwy-fHdjgFn2BzSMHFF4AK_LoE_kNz/view?usp=sharing">Положение о порядке приема, перевода, отчисления и восстановления воспитанников МБДОУ ДС№10 Росинка с Спасское</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1hs9Z2I7HIBgVgNr3kTyALolVmrlxS1YU/view?usp=sharing">Положение о режиме занятий и учебной нагрузке воспитанников МБДОУ Дс№10 Росинка с Спасское</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1I0FTJQDxfY5tbDprNcYFKIUz7F86PijK/view?usp=sharing">Постановление о закреплении муниципальных общеобразовательных и дошкольных общеобразовательных организаций за конкретными территориями Спасского муниципального района</a>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1P_oOMrBhoqRDyEy5Z9eZqKdoAqOax9OU/view?usp=sharing">Порядок приема на обучение по образовательным программам дошкольного образования в МБДОУ ДС№10 Росинка с Спасское</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/17urjbYZ9pQYEDUloCMf2np0cAGwHL8qI/view?usp=sharing">Правила приема на обучение по образовательным программам дошкольного образования в МБДОУ «Детский сад общеразвивающего вида №10 «Росинка» села Спасское Спасского района</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1pP181CqMy_1O_n-4yi8x5D7VFyqZfcE6/view?usp=sharing">Порядок оформления, возникновения, приостановления и прекращения отношений между МБДОУ Дс№10 Росинка с Спасское и родителями (законными представителями) несовершеннолетних воспитанников</a>
                                 </div>
                                 <div class="menu__item body_yellow">
@@ -168,6 +168,14 @@
                                             <img src="/assets/images/file_icon/pdf.png">
                                         </div>
                                         <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1wDTmZ5vD-5_iEkHyzZST3Y54RUxCjqUn/view?usp=sharing">Постановление об установлении размера род.платы за присмотр и уход за ребенком в МОУ № 430-па от 13.04.2022</a>
+                                    </div>
+                                </div>
+                                <div class="menu__item body_yellow">
+                                    <div class="menu__header item__one__row">
+                                        <div class="item__logo">
+                                            <img src="/assets/images/file_icon/pdf.png">
+                                        </div>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1i0eF2U830hOgXkT-yQsbhGmYcgW84E5v/view?usp=sharing">Постановление о внесении дополнений в постановление администрации СМР № 848-па от 27.08.2013 «Об утверждении Положения о порядке взимания и распределения родительской платы за присмотр и уход за ребёнком в муниципальных бюджетных образовательных учреждений, реализующих основную общеобразовательную программу дошкольного образования в СМР» (льгота)</a>
                                     </div>
                                 </div>
                                 <div class="menu__item body_yellow">
