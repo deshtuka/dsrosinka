@@ -84,7 +84,7 @@
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1kgHwy-fHdjgFn2BzSMHFF4AK_LoE_kNz/view?usp=sharing">Положение о порядке приема, перевода, отчисления и восстановления воспитанников МБДОУ ДС№10 Росинка с Спасское</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1hs9Z2I7HIBgVgNr3kTyALolVmrlxS1YU/view?usp=sharing">Положение о режиме занятий и учебной нагрузке воспитанников МБДОУ Дс№10 Росинка с Спасское</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1I0FTJQDxfY5tbDprNcYFKIUz7F86PijK/view?usp=sharing">Постановление о закреплении муниципальных общеобразовательных и дошкольных общеобразовательных организаций за конкретными территориями Спасского муниципального района</a>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/17urjbYZ9pQYEDUloCMf2np0cAGwHL8qI/view?usp=sharing">Правила приема на обучение по образовательным программам дошкольного образования в МБДОУ «Детский сад общеразвивающего вида №10 «Росинка» села Спасское Спасского района</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/17urjbYZ9pQYEDUloCMf2np0cAGwHL8qI/view?usp=sharing">Правила приема на обучение по образовательным программам дошкольного образования в МБДОУ Дс№10 Росинка с Спасское</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1pP181CqMy_1O_n-4yi8x5D7VFyqZfcE6/view?usp=sharing">Порядок оформления, возникновения, приостановления и прекращения отношений между МБДОУ Дс№10 Росинка с Спасское и родителями (законными представителями) несовершеннолетних воспитанников</a>
                                 </div>
                                 <div class="menu__item body_yellow">
@@ -194,7 +194,7 @@
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1w4sKZsnB7Fc8BErx_0uMoSaOt3-NrxGy/view?usp=sharing">Образец договора с исполнителем об оказании услуги на платной основе</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1sPM_8Et6y7Lv1W0jWS9aTqpx2HscrAUd/view?usp=sharing">Образец договора с родителями (законными представителями)</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1f0eyKXQm2o2GTX7traNA0gQFb2vXqKj0/view?usp=sharing">Положение «О порядке предоставления платных образовательных услуг»</a>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1SfYnccP2yQuUODmaJcihWtzYTSDa3sd4/view?usp=sharing">Смета доходов и расходов от оказания платных образовательных услуг на 2021 – 2022 год</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1-cKEw8GHOCUMneQ6-sDGqTpnfkrnrvcY/view?usp=sharing">Смета доходов и расходов от оказания платных образовательных услуг на 2022 – 2023 год</a>
                                 </div>
 
                             </div>
