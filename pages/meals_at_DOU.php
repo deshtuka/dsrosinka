@@ -106,6 +106,7 @@
                                             <details class="tree-nav__item is-expandable">
                                                 <summary class="tree-nav__item-title">Ноябрь 2022</summary>
                                                 <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1arc0BMtCU9AWqhwkQi-YHgxGpm820Rx7/view?usp=sharing">с 14 по 18 ноября</a>
                                                     <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1mIqESJUeI3BZmCQ5LmIOR6I10X2nXU9l/view?usp=sharing">с 7 по 11 ноября</a>
                                                     <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1p2RJPTCermyyDgMImmv_EWb6X47vw392/view?usp=sharing">с 31 октября по 3 ноября</a>
                                                 </div>
