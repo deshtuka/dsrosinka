@@ -30,12 +30,12 @@
                         <h2 class="section__title">Контакты</h2>
                         <div class="block__box__text blue">
                             <h3>Начальник Управления образования Администрации Спасского муниципального района</h3>
-                            <p>Краевская Наталья Витальевна<br>Тел.: 8 (42352) 2-15-56<br>e-mail:
+                            <p>Тел.: 8 (42352) 3-40-23<br>e-mail:
                             <a href="mailto:spy.smr@mail.ru">spy.smr@mail.ru</a></p>
                         </div>
                         <div class="block__box__text green">
                             <h3>Заместитель начальника управления образования</h3>
-                            <p>Король Оксана Валентиновна<br>Тел.: 8 (42352) 2-20-61<br>e-mail: <a href="mailto:oksanakorol40@mail.ru">oksanakorol40@mail.ru</a></p>
+                            <p>Король Оксана Валентиновна<br>Тел.: 8 (42352) 3-40-23<br>e-mail: <a href="mailto:oksanakorol40@mail.ru">oksanakorol40@mail.ru</a></p>
                         </div>
                         <div class="block__box__text red">
                             <h3>Уполномоченный при губернаторе Приморского края по правам ребенка</h3>
