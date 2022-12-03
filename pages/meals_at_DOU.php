@@ -104,6 +104,14 @@
                                             <summary class="tree-nav__item-title">Ежедневное меню</summary>
 
                                             <details class="tree-nav__item is-expandable">
+                                                <summary class="tree-nav__item-title">Декабрь 2022</summary>
+                                                <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="">с 5 по 9 декабря</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="">с 1 по 2 декабря</a>
+                                                </div>
+                                            </details>
+
+                                            <details class="tree-nav__item is-expandable">
                                                 <summary class="tree-nav__item-title">Ноябрь 2022</summary>
                                                 <div class="tree-nav__item">
                                                     <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1xnzkyhuar9QkC3amNQUnboZYc3SRpiJZ/view?usp=sharing">с 28 по 30 ноября</a>

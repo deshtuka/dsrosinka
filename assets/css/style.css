@@ -743,7 +743,7 @@ p {
     text-align: center; /* Выравние по горизонтали */
 }
 .help__desk img {
-    max-width: auto;
+    max-width: 320px;
     /*width: 200px;*/
     max-height: 320px;
     

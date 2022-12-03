@@ -238,11 +238,14 @@
                 <div class="col_3">
                     <img class="image__minimized" src="/images/title/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BA%D0%B0%20122.jpg" href="#">
                 </div>
-                <div class="col_6">
+                <div class="col_3">
                     <img class="image__minimized" src="/images/title/%D0%9A%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D1%8F.jpg" href="#">
                 </div>
                 <div class="col_3">
                     <img class="image__minimized" src="/images/title/narodnyj%20revizorro.jpg" href="#">
+                </div>
+                <div class="col_3">
+                    <img class="image__minimized" src="/images/title/telefon_doveriya.jpg" href="#">
                 </div>
             </div>
         </div>
