@@ -36,7 +36,16 @@
                                         <div class="item__logo">
                                             <img src="/assets/images/telegram.png">
                                         </div>
-                                        <a class="menu__title" target="_blank" href="https://t.me/ds10_rosinka">Наш телеграмм канал</a>
+                                        <a class="menu__title" target="_blank" href="https://t.me/ds10_rosinka">Телеграм канал</a>
+                                    </div>
+                                </div>
+
+                                <div class="menu__item body_yellow">
+                                    <div class="menu__header item__one__row">
+                                        <div class="item__logo">
+                                            <img src="/assets/images/VK_logo.png">
+                                        </div>
+                                        <a class="menu__title" target="_blank" href="https://vk.com/ds10_rosinka">Сообщество ВКонтакте</a>
                                     </div>
                                 </div>
 
