@@ -104,44 +104,58 @@
                                             <summary class="tree-nav__item-title">Ежедневное меню</summary>
 
                                             <details class="tree-nav__item is-expandable">
-                                                <summary class="tree-nav__item-title">Декабрь 2022</summary>
+                                                <summary class="tree-nav__item-title">Январь 2023</summary>
                                                 <div class="tree-nav__item">
-                                                    <a class="tree-nav__item-title" target="_blank" href="">с 5 по 9 декабря</a>
-                                                    <a class="tree-nav__item-title" target="_blank" href="">с 1 по 2 декабря</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1TDh-J8O2S0oTeQvQ8dqQthD1W1mKt-m3/view?usp=sharing">с 16 по 20 января</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1Pgz6Sj3oWaV_TgNqRtvVyYD56G2gwfaG/view?usp=sharing">с 9 по 13 января</a>
                                                 </div>
                                             </details>
 
                                             <details class="tree-nav__item is-expandable">
-                                                <summary class="tree-nav__item-title">Ноябрь 2022</summary>
-                                                <div class="tree-nav__item">
-                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1xnzkyhuar9QkC3amNQUnboZYc3SRpiJZ/view?usp=sharing">с 28 по 30 ноября</a>
-                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1IbI-NaRxoD4cT96hybk1ZQhdRTXmf61B/view?usp=sharing">с 21 по 25 ноября</a>
-                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1arc0BMtCU9AWqhwkQi-YHgxGpm820Rx7/view?usp=sharing">с 14 по 18 ноября</a>
-                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1mIqESJUeI3BZmCQ5LmIOR6I10X2nXU9l/view?usp=sharing">с 7 по 11 ноября</a>
-                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1p2RJPTCermyyDgMImmv_EWb6X47vw392/view?usp=sharing">с 31 октября по 3 ноября</a>
-                                                </div>
-                                            </details>
+                                                <summary class="tree-nav__item-title">Меню за 2022 год</summary>
 
-                                            <details class="tree-nav__item is-expandable">
-                                                <summary class="tree-nav__item-title">Октябрь 2022</summary>
-                                                <div class="tree-nav__item">
-                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1XUMaCRkfdcJ9R47u8kDi5mdNP1j2WAjz/view?usp=sharing">с 24 по 28 октября</a>
-                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1DGuzsZ4y9mxzEeKZKUit7IbbsV_hDSi9/view?usp=sharing">с 17 по 21 октября</a>
-                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/14QquQYZelgUc3KhzGsdOZmyveUrf3hLf/view?usp=sharing">с 10 по 14 октября</a>
-                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1ZvgunPNf7xJJK1q2j2qX7wHLnylVSxhR/view?usp=sharing">с 3 по 7 октября</a>
-                                                </div>
-                                            </details>
+                                                <details class="tree-nav__item is-expandable">
+                                                    <summary class="tree-nav__item-title">Декабрь 2022</summary>
+                                                    <div class="tree-nav__item">
+                                                        <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1Y0wBDR-x7RmMOz5S-T_SzXwBxY9KWlzm/view?usp=sharing">с 26 по 30 декабря</a>
+                                                        <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1GeFLW5aI77tAZpRKv_81aZi_WmELV-K1/view?usp=sharing">с 19 по 23 декабря</a>
+                                                        <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/14O1aow2Jf4pPkcKg4uYFsgSvC075nCkX/view?usp=sharing">с 12 по 16 декабря</a>
+                                                        <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1rYg2B0VmWt3MbyHJolcjMMJkoipwX_Xm/view?usp=sharing">с 5 по 9 декабря</a>
+                                                        <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1rxOtojwEV4QuPdnyQo1oAckYuu_B307u/view?usp=sharing">с 1 по 2 декабря</a>
+                                                    </div>
+                                                </details>
 
-                                            <details class="tree-nav__item is-expandable">
-                                                <summary class="tree-nav__item-title">Сентябрь 2022</summary>
-                                                <div class="tree-nav__item">
-                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1Vluqt3gDUMt_KqSw__Bhp_zfkquQr3F2/view?usp=sharing">с 26 по 30 сентября</a>
-                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1MM9Keg0wuRB34RKeghxU5N0DzKWgb8Kc/view?usp=sharing">с 19 по 23 сентября</a>
-                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/16FVYzglnaFd6ohrgmFOHq5FLBEb8r3YR/view?usp=sharing">с 12 по 16 сентября</a>
-                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1KsYm2rmAxEOdNLumuLslXGsdpsN7nRIv/view?usp=sharing">с 1 по 9 сентября</a>
-                                                </div>
-                                            </details>
+                                                <details class="tree-nav__item is-expandable">
+                                                    <summary class="tree-nav__item-title">Ноябрь 2022</summary>
+                                                    <div class="tree-nav__item">
+                                                        <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1xnzkyhuar9QkC3amNQUnboZYc3SRpiJZ/view?usp=sharing">с 28 по 30 ноября</a>
+                                                        <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1IbI-NaRxoD4cT96hybk1ZQhdRTXmf61B/view?usp=sharing">с 21 по 25 ноября</a>
+                                                        <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1arc0BMtCU9AWqhwkQi-YHgxGpm820Rx7/view?usp=sharing">с 14 по 18 ноября</a>
+                                                        <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1mIqESJUeI3BZmCQ5LmIOR6I10X2nXU9l/view?usp=sharing">с 7 по 11 ноября</a>
+                                                        <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1p2RJPTCermyyDgMImmv_EWb6X47vw392/view?usp=sharing">с 31 октября по 3 ноября</a>
+                                                    </div>
+                                                </details>
 
+                                                <details class="tree-nav__item is-expandable">
+                                                    <summary class="tree-nav__item-title">Октябрь 2022</summary>
+                                                    <div class="tree-nav__item">
+                                                        <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1XUMaCRkfdcJ9R47u8kDi5mdNP1j2WAjz/view?usp=sharing">с 24 по 28 октября</a>
+                                                        <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1DGuzsZ4y9mxzEeKZKUit7IbbsV_hDSi9/view?usp=sharing">с 17 по 21 октября</a>
+                                                        <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/14QquQYZelgUc3KhzGsdOZmyveUrf3hLf/view?usp=sharing">с 10 по 14 октября</a>
+                                                        <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1ZvgunPNf7xJJK1q2j2qX7wHLnylVSxhR/view?usp=sharing">с 3 по 7 октября</a>
+                                                    </div>
+                                                </details>
+
+                                                <details class="tree-nav__item is-expandable">
+                                                    <summary class="tree-nav__item-title">Сентябрь 2022</summary>
+                                                    <div class="tree-nav__item">
+                                                        <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1Vluqt3gDUMt_KqSw__Bhp_zfkquQr3F2/view?usp=sharing">с 26 по 30 сентября</a>
+                                                        <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1MM9Keg0wuRB34RKeghxU5N0DzKWgb8Kc/view?usp=sharing">с 19 по 23 сентября</a>
+                                                        <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/16FVYzglnaFd6ohrgmFOHq5FLBEb8r3YR/view?usp=sharing">с 12 по 16 сентября</a>
+                                                        <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1KsYm2rmAxEOdNLumuLslXGsdpsN7nRIv/view?usp=sharing">с 1 по 9 сентября</a>
+                                                    </div>
+                                                </details>
+                                            </details>
                                         </details>
                                     </div>
                                 </nav>

@@ -86,6 +86,7 @@
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1I0FTJQDxfY5tbDprNcYFKIUz7F86PijK/view?usp=sharing">Постановление о закреплении муниципальных общеобразовательных и дошкольных общеобразовательных организаций за конкретными территориями Спасского муниципального района</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/17urjbYZ9pQYEDUloCMf2np0cAGwHL8qI/view?usp=sharing">Правила приема на обучение по образовательным программам дошкольного образования в МБДОУ Дс№10 Росинка с Спасское</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1pP181CqMy_1O_n-4yi8x5D7VFyqZfcE6/view?usp=sharing">Порядок оформления, возникновения, приостановления и прекращения отношений между МБДОУ Дс№10 Росинка с Спасское и родителями (законными представителями) несовершеннолетних воспитанников</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1crv3MEho-Q5yo1NgKolUjeOROn1iRotf/view?usp=sharing">Приказ о мерах социальной поддержки участников СВО</a>
                                 </div>
                                 <div class="menu__item body_yellow">
                                     <div class="menu__header item__one__row">
