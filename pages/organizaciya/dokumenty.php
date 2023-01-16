@@ -58,14 +58,6 @@
                                         <div class="item__logo">
                                             <img src="/assets/images/file_icon/pdf.png">
                                         </div>
-                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1hugSjEISQxnAQuJb4bxkoeM2FFHPN8mO/view?usp=sharing">Положение о комиссии по урегулированию споров между участниками образовательных отношений</a>
-                                    </div>
-                                </div>
-                                <div class="menu__item body_yellow">
-                                    <div class="menu__header item__one__row">
-                                        <div class="item__logo">
-                                            <img src="/assets/images/file_icon/pdf.png">
-                                        </div>
                                         <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1SWziKNmZTk-5420TFQgSmyC5V1_Qyh63/view?usp=sharing">Памятка для родителей</a>
                                     </div>
                                 </div>
@@ -83,6 +75,9 @@
                                     </div>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1kgHwy-fHdjgFn2BzSMHFF4AK_LoE_kNz/view?usp=sharing">Положение о порядке приема, перевода, отчисления и восстановления воспитанников МБДОУ ДС№10 Росинка с Спасское</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1hs9Z2I7HIBgVgNr3kTyALolVmrlxS1YU/view?usp=sharing">Положение о режиме занятий и учебной нагрузке воспитанников МБДОУ Дс№10 Росинка с Спасское</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1SuXiskJvi1b4v-vXm_oofyW8hBYd02Ub/view?usp=sharing">Положение о профессиональной этике педагогических работников МБДОУ Дс№10 Росинка с Спасское</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1Y2T3-3C-71K5eFU9XwjfZKs0W502Ho3S/view?usp=sharing">Положение о комиссии по профессиональной этике МБДОУ Дс№10 Росинка с Спасское</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1QwsdjZts4FLEKcaYqXnityOAxWbnA-Us/view?usp=sharing">Положение о комиссии по урегулированию споров между участниками образовательных отношений МБДОУ Дс№10 Росинка с Спасское</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1I0FTJQDxfY5tbDprNcYFKIUz7F86PijK/view?usp=sharing">Постановление о закреплении муниципальных общеобразовательных и дошкольных общеобразовательных организаций за конкретными территориями Спасского муниципального района</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/17urjbYZ9pQYEDUloCMf2np0cAGwHL8qI/view?usp=sharing">Правила приема на обучение по образовательным программам дошкольного образования в МБДОУ Дс№10 Росинка с Спасское</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1pP181CqMy_1O_n-4yi8x5D7VFyqZfcE6/view?usp=sharing">Порядок оформления, возникновения, приостановления и прекращения отношений между МБДОУ Дс№10 Росинка с Спасское и родителями (законными представителями) несовершеннолетних воспитанников</a>
@@ -113,6 +108,7 @@
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1_1NUOquo2gbTGJ-vf9L9uwP55QYH8mpO/view?usp=sharing">Муниципальное задание на оказание муниципальных услуг на 2020 год</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1Kfx0zq9fxHnjydN4VmZPlDoZ90_go0KT/view?usp=sharing">Муниципальное задание на оказание муниципальных услуг на 2021 год и плановый период 2022 и 2023 годы</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1Bdmv12ldTWmo15dMzuzMR4ynZOaaGktQ/view?usp=sharing">Муниципальное задание на 2022 год и плановый период 2023 и 2024 годов (постановление АСМР об утверждении муниципального задания на 2022 г)</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1QEv-zw5uOLtweDxyJRCtFmJdPv43s9PH/view?usp=sharing">Муниципальное задание на 2023 год и плановый период 2024 и 2025 годов (постановление АСМР об утверждении муниципального задания на 2023 г)</a>
                                 </div>
                                 <div class="menu__item body_yellow">
                                     <div class="menu__header item__one__row">
