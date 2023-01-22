@@ -104,8 +104,18 @@
                                             <summary class="tree-nav__item-title">Ежедневное меню</summary>
 
                                             <details class="tree-nav__item is-expandable">
+                                                <summary class="tree-nav__item-title">Февраль 2023</summary>
+                                                <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1ElcYhx0W4McAvo_FjycXoEqynukKfb06/view?usp=sharing">с 6 по 10 февраля</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1bNLE5WIgqx4_OoN3FnUhji0OSEl0o6v7/view?usp=sharing">с 1 по 3 февраля</a>
+                                                </div>
+                                            </details>
+
+                                            <details class="tree-nav__item is-expandable">
                                                 <summary class="tree-nav__item-title">Январь 2023</summary>
                                                 <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1RcV495AEvgP70hLDzkAZ7YolW0bkmW6z/view?usp=sharing">с 30 по 31 января</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/19tfbUjVkGVMtcj8kLd7geO0CbX6gRmq1/view?usp=sharing">с 23 по 27 января</a>
                                                     <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1TDh-J8O2S0oTeQvQ8dqQthD1W1mKt-m3/view?usp=sharing">с 16 по 20 января</a>
                                                     <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1Pgz6Sj3oWaV_TgNqRtvVyYD56G2gwfaG/view?usp=sharing">с 9 по 13 января</a>
                                                 </div>
