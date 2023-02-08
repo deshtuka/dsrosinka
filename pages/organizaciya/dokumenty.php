@@ -16,7 +16,7 @@
         <!-- Версия для слабовидящих -->
         <script src="https://lidrekon.ru/slep/js/uhpv-full.min.js"></script>
         <!-- Заголовок -->
-        <title>Дс №10 "Росинка"</title>
+        <title>Документы</title>
     </head>
     
     <body>
@@ -134,6 +134,7 @@
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1nAHmjlBq2DAbFoSLPhx72I5tMaLpfT5w/view?usp=sharing">Отчет о выполнении Муниципального задания за 2019 год</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1z5SbR-JGv9Aecbn4HeAWyBJg3jNPkxLl/view?usp=sharing">Отчет о выполнении Муниципального задания за 2020 год</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1of57wG9fqKZSgZ2s8YEnBIBuYfuRIizK/view?usp=sharing">Отчет о выполнении Муниципального задания за 2021 год</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1CaMyw4WEyzrduBxEdo8Lqr-KUuJcse38/view?usp=sharing">Отчет о выполнении Муниципального задания за 2022 год</a>
                                 </div>
                                 <div class="menu__item body_green">
                                     <div class="menu__header_slider">

@@ -16,7 +16,7 @@
         <!-- Версия для слабовидящих -->
         <script src="https://lidrekon.ru/slep/js/uhpv-full.min.js"></script>
         <!-- Заголовок -->
-        <title>Дс №10 "Росинка"</title>
+        <title>Финансово-хозяйственная деятельность</title>
     </head>
     
     <body>
@@ -59,7 +59,7 @@
                                         <div class="item__logo">
                                             <img src="/assets/images/file_icon/pdf.png">
                                         </div>
-                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1mhiDLvFKI2ni3spVYqbBmhMb9yBjIWXT/view?usp=sharing">План финансово-хозяйственной деятельности МБДОУ Д/с № 10 "Росинка"на 2021 год (на плановый период 2022 - 2023 годов)</a>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1mhiDLvFKI2ni3spVYqbBmhMb9yBjIWXT/view?usp=sharing">План финансово-хозяйственной деятельности МБДОУ Д/с № 10 "Росинка" на 2021 год (на плановый период 2022 - 2023 годов)</a>
                                     </div>
                                 </div>
                                 <div class="menu__item body_yellow">
@@ -67,7 +67,15 @@
                                         <div class="item__logo">
                                             <img src="/assets/images/file_icon/pdf.png">
                                         </div>
-                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1OBEBHqVSwuTBqlxjXyAlib-aHsmRC2Ji/view?usp=sharing">План финансово-хозяйственной деятельности МБДОУ Д/с № 10 "Росинка"на 2022 год (на плановый период 2023 - 2024 годов)</a>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1OBEBHqVSwuTBqlxjXyAlib-aHsmRC2Ji/view?usp=sharing">План финансово-хозяйственной деятельности МБДОУ Д/с № 10 "Росинка" на 2022 год (на плановый период 2023 - 2024 годов)</a>
+                                    </div>
+                                </div>
+                                <div class="menu__item body_yellow">
+                                    <div class="menu__header item__one__row">
+                                        <div class="item__logo">
+                                            <img src="/assets/images/file_icon/pdf.png">
+                                        </div>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1tewh3bRx4OkvgTTYrn-u9visgwce4Q5q/view?usp=sharing">План финансово-хозяйственной деятельности МБДОУ Д/с № 10 "Росинка" на 2023 год (на плановый период 2024 - 2025 годов)</a>
                                     </div>
                                 </div>
 
