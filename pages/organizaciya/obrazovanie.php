@@ -93,6 +93,14 @@
                                         <div class="item__logo">
                                             <img src="/assets/images/file_icon/pdf.png">
                                         </div>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1WobS4c0RmP1ROWPzvfHEUDCfXO1hSFjR/view?usp=sharing">Федеральная образовательная программа дошкольного образования (утвержденная приказом Министерства просвещения РФ от 25.11.2022 №1028)</a>
+                                    </div>
+                                </div>
+                                <div class="menu__item body_yellow">
+                                    <div class="menu__header item__one__row">
+                                        <div class="item__logo">
+                                            <img src="/assets/images/file_icon/pdf.png">
+                                        </div>
                                         <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1cTXHhbIVEho_A2issnCkiJWbGRvXe1Wl/view?usp=sharing">Информация о методических и иных документах, разработанных образовательной организацией для обеспечения образовательного процесса</a>
                                     </div>
                                 </div>
