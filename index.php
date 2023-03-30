@@ -297,6 +297,17 @@
             <script>Widget("https://pos.gosuslugi.ru/form", 261776)</script>
         </div>
     </section>
+
+    <section class="section__white">
+        <div class="container">
+            <div class="gosuslugi_school">
+                <div class="col_12">
+                    <img class="gosuslugi_school_image" src="/images/title/zapis_v_shkolu.jpg" href="#">
+                    <button class="gosuslugi_school_button" onclick="window.open('https://www.gosuslugi.ru/600426/1/form','new_window');">Получить услугу</button>
+                </div>
+            </div>
+        </div>
+    </section>
     
     <footer class="footer">
         <div class="container">

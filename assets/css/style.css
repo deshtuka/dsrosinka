@@ -821,6 +821,59 @@ p {
     background: #f6ef9c;
 }
 
+/* Блок - Госуслуги запись в школу */
+.gosuslugi_school{
+    position: relative;
+
+    align-items: center; /* Выравнивание по вертикали */
+    text-align: center; /* Выравние по горизонтали */
+
+    padding: 0 20px;
+}
+
+.gosuslugi_school_image{
+    display: block;
+    height: auto;
+    width: 100%;
+}
+
+.gosuslugi_school_button{
+    position: absolute;
+    cursor: pointer;
+
+    top: 79%;
+
+    background-color: #ec2c53;
+    border: none;
+    border-radius: 5px;
+
+    font-size: 17px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+
+    transition: background .2s linear;
+}
+.gosuslugi_school_button:hover {
+    box-shadow: 0 0 0 4px #ec2c53 inset;
+    background: #f6ef9c;
+    color: #ec2c53;
+}
+
+@media screen and (min-width: 1024px) { /* медиа-запрос для компьютера */
+    .gosuslugi_school_button {
+        padding: 30px 125px;
+        transform: translate(50%, -46%);
+    }
+}
+
+@media screen and (max-width: 1023px) { /* медиа-запрос для телефона и планшета */
+    .gosuslugi_school_button {
+        padding: 30px 125px;
+        transform: translate(12%, -50%);
+    }
+}
+
 /* Футер */
 .footer {
     padding: 40px 0; /*Отступы в разделе*/
