@@ -104,6 +104,13 @@
                                             <summary class="tree-nav__item-title">Ежедневное меню</summary>
 
                                             <details class="tree-nav__item is-expandable">
+                                                <summary class="tree-nav__item-title">Апрель 2023</summary>
+                                                <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/10GrxZuj5BpKRrwRxcY4DYsELrbcYMvEz/view?usp=sharing">с 3 по 7 апреля</a>
+                                                </div>
+                                            </details>
+
+                                            <details class="tree-nav__item is-expandable">
                                                 <summary class="tree-nav__item-title">Март 2023</summary>
                                                 <div class="tree-nav__item">
                                                     <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/15MfNPFSVlQJ1rXTKF2XNOE1WvuxalImF/view?usp=sharing">с 27 по 31 марта</a>
