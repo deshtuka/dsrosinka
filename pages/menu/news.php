@@ -49,6 +49,15 @@
                                     </div>
                                 </div>
 
+                                <div class="menu__item body_yellow">
+                                    <div class="menu__header item__one__row">
+                                        <div class="item__logo">
+                                            <img src="/assets/images/logo_odnoklassniki.png">
+                                        </div>
+                                        <a class="menu__title" target="_blank" href="https://ok.ru/group/70000002429207">Группа в Одноклассниках</a>
+                                    </div>
+                                </div>
+
                             </div>
                         </div>
                     </div>
