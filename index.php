@@ -308,7 +308,15 @@
             </div>
         </div>
     </section>
-    
+
+    <section class="section__white">
+        <div class="container">
+            <a target="_blank" href="https://25.gorodsreda.ru/?utm_source=ds10rosinka&utm_medium=site&utm_campaign=gorodsreda">
+                <img class="gosuslugi_school_image" src="/images/title/golosovanie_za_blagoustrojstvo.jpg" href="#">
+            </a>
+        </div>
+    </section>
+
     <footer class="footer">
         <div class="container">
             <div class="footer__block">
