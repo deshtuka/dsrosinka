@@ -50,7 +50,15 @@
                                         <div class="item__logo">
                                             <img src="/assets/images/file_icon/pdf.png">
                                         </div>
-                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1Jw7EiBrf9Gwcfr-tpahIp3oK8ZveYAPh/view?usp=sharing">Коллективный договор с приложением правил внутреннего трудового распорядка</a>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1DHftMcriBOkgQy6ldsME4DHbA0yW742M/view?usp=sharing">Коллективный договор с приложением правил внутреннего трудового распорядка</a>
+                                    </div>
+                                </div>
+                                <div class="menu__item body_yellow">
+                                    <div class="menu__header item__one__row">
+                                        <div class="item__logo">
+                                            <img src="/assets/images/file_icon/pdf.png">
+                                        </div>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1AXsk-CYLwJnv36cVUYRBk7toEJ7z2psn/view?usp=sharing">Дополнение к коллективному договору</a>
                                     </div>
                                 </div>
                                 <div class="menu__item body_yellow">
