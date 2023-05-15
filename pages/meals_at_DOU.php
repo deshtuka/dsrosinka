@@ -104,8 +104,39 @@
                                             <summary class="tree-nav__item-title">Ежедневное меню</summary>
 
                                             <details class="tree-nav__item is-expandable">
+                                                <summary class="tree-nav__item-title">Август 2023</summary>
+                                                <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1QUuVTPyPnQIZDK6ksykFwF2WO-drbKJQ/view?usp=sharing">с 7 по 11 августа</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1Yo3TW05GOLq2NFFVR5xcN69AWUgNizaq/view?usp=sharing">с 31 июля по 4 августа</a>
+                                                </div>
+                                            </details>
+
+                                            <details class="tree-nav__item is-expandable">
+                                                <summary class="tree-nav__item-title">Июль 2023</summary>
+                                                <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1x-UAnR2jsOHxwab7pdz0Tr0pQfCI5O7F/view?usp=sharing">с 24 по 28 июля</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1Mzqy3kXJXXQuE2qF4Gn1wO2-49xqxgwb/view?usp=sharing">с 17 по 21 июля</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1-PBxt50azRWng3qgH5q5P2dAsjE-D3PF/view?usp=sharing">с 10 по 14 июля</a>
+                                                </div>
+                                            </details>
+
+                                            <details class="tree-nav__item is-expandable">
+                                                <summary class="tree-nav__item-title">Июнь 2023</summary>
+                                                <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/13y6QL2rKYPTloZ_-QwC9DtJp11lgqIQ2/view?usp=sharing">с 19 по 23 июня</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1SKV6HD8k0R0wurg_rRFA07BGepoyZueX/view?usp=sharing">с 13 по 16 июня</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1_rrJTACzn9H8mcJ_bOJo0lpgbpPcBF1R/view?usp=sharing">с 5 по 9 июня</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/16-ppZ677t8aF6QSLwJqNeJPKYDp1fzoj/view?usp=sharing">с 1 по 2 июня</a>
+                                                </div>
+                                            </details>
+
+                                            <details class="tree-nav__item is-expandable">
                                                 <summary class="tree-nav__item-title">Май 2023</summary>
                                                 <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1XX8tKt8hq5BsKo_S_q1FyKNz7m0DFFVU/view?usp=sharing">с 29 по 31 мая</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1mj9WA-7meXP9N3rg57e_XZNd73QA76UL/view?usp=sharing">с 22 по 26 мая</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/10kQn1C3_QITTP7VJ-xCLSA989ZRCeSmE/view?usp=sharing">с 15 по 19 мая</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1b7RGTWPnY9vVEjcLEHtlyOmKWEeZW3tI/view?usp=sharing">с 10 по 12 мая</a>
                                                     <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1IQNWelHO48fLgxU40sf2m-0n53_J9E_M/view?usp=sharing">с 2 по 5 мая</a>
                                                 </div>
                                             </details>
