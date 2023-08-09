@@ -151,6 +151,7 @@
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1m9U90Wy2LsCrhyWrph6kBj7nf6jVfchr/view?usp=sharing">Отчет по самообследованию за 2019 год</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1KfOhd1_CfkZqT3KFkn1xTd7bSQ0GuEZj/view?usp=sharing">Отчет по самообследованию за 2020 год</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1cv5vbtV1ECqh--82lFF5xv3TiWd2OoXA/view?usp=sharing">Отчет по самообследованию за 2021 год</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1Mz0mqUtlmbpEMVdzE7G0LhnDZs4k3qP2/view?usp=sharing">Отчет по самообследованию за 2022 год</a>
                                 </div>
                                 <div class="menu__item body_green">
                                     <div class="menu__header_slider">
