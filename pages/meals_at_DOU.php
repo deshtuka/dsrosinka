@@ -104,8 +104,18 @@
                                             <summary class="tree-nav__item-title">Ежедневное меню</summary>
 
                                             <details class="tree-nav__item is-expandable">
+                                                <summary class="tree-nav__item-title">Сентябрь 2023</summary>
+                                                <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/14RZCGuPcNs9WUN9yRpNKVm3D112joCwq/view?usp=sharing">с 1 по 8 сентября</a>
+                                                </div>
+                                            </details>
+
+                                            <details class="tree-nav__item is-expandable">
                                                 <summary class="tree-nav__item-title">Август 2023</summary>
                                                 <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1SGkn2bf3mDJNA7AK3BdkG76lkAqY-AbL/view?usp=sharing">с 28 по 31 августа</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1uZ-fZEZ0znw8f4ThfVyhVV9Xm5A_HF6r/view?usp=sharing">с 21 по 25 августа</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1GsaaFJXo0J_PJ-J-6s-NOOBdN5WVfNxH/view?usp=sharing">с 14 по 18 августа</a>
                                                     <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1QUuVTPyPnQIZDK6ksykFwF2WO-drbKJQ/view?usp=sharing">с 7 по 11 августа</a>
                                                     <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1Yo3TW05GOLq2NFFVR5xcN69AWUgNizaq/view?usp=sharing">с 31 июля по 4 августа</a>
                                                 </div>
