@@ -141,15 +141,7 @@
                                         <div class="item__logo">
                                             <img src="/assets/images/file_icon/pdf.png">
                                         </div>
-                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1hZVurbxdDfNAPjc80C-xFW9LllGIHbrM/view?usp=sharing">Основная общеобразовательная программа МБДОУ "ДС №10 "Росинка"</a>
-                                    </div>
-                                </div>
-                                <div class="menu__item body_yellow">
-                                    <div class="menu__header item__one__row">
-                                        <div class="item__logo">
-                                            <img src="/assets/images/file_icon/pdf.png">
-                                        </div>
-                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/17jHPhlFuyReXg-3SfLlSqmWt5xTGPdAp/view?usp=sharing">Изменения и дополнения к основной образовательной программе МБДОУ «ДС№10 «Росинка» с. Спасское</a>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1PKtZlFOyiN3Ytx85EwLO0z1z38b7ruw0/view?usp=sharing">Образовательная программа дошкольного образования МБДОУ «Дс№10 «Росинка» с. Спасское 2023 год</a>
                                     </div>
                                 </div>
                                 <div class="menu__item body_yellow">
