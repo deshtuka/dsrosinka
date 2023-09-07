@@ -155,14 +155,10 @@
 
                                 <div class="menu__item body_green">
                                     <div class="menu__header_slider">
-                                        <div class="menu__title">Рабочие программы для детей дошкольного возраста (2022-2023г)</div>
+                                        <div class="menu__title">Рабочие программы для детей дошкольного возраста (2023-2024г)</div>
                                     </div>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/18R0vC4vMOA9gg3s75Eg8-aI6KRXeid5W/view?usp=sharing">Рабочая программа по музыкальному воспитанию 2022-2023 учебный год</a>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1bGyS-zImSlIMbS0MDQlPyvqTKh83mNSi/view?usp=sharing">Рабочая программа для детей раннего возраста 1,5-3 лет с пояснительной запиской и аннотацией</a>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1H4GvtkX8cOlRchbLDqdQIi0skwcASjBV/view?usp=sharing">Рабочая программа для детей младшего возраста 3-4 лет с пояснительной запиской и аннотацией</a>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1T2P4ECIIGG4D0V79uJfsy61MFUMtQMTT/view?usp=sharing">Рабочая программа для детей среднего возраста 4-5 лет с пояснительной запиской и аннотацией</a>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/199ktkhsx74g0d9HLIh8M8JXq-8Dd6y1E/view?usp=sharing">Рабочая программа для детей старшего возраста 5-6 лет с пояснительной запиской и аннотацией</a>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/14AUUL-eHElkGb1Up6Lo6ecRHcGM4p8AC/view?usp=sharing">Рабочая программа детей подготовительной к школе группы с пояснительной запиской и аннотацией</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1RQQPfCaBuRvJ8CkGDOkw7RmF2upobvr1/view?usp=sharing">Рабочая программа образовательной деятельности в младшей группе общеобразовательной направленности</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/10nLczzIOeFT9fwoU00RZ4sM57byQsklb/view?usp=sharing">Рабочая программа образовательной деятельности в старшей группе общеобразовательной направленности</a>
                                 </div>
 
                                 <div class="menu__item body_green">
