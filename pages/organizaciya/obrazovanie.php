@@ -165,9 +165,8 @@
                                     <div class="menu__header_slider">
                                         <div class="menu__title">«Программы дополнительного образования»</div>
                                     </div>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/11zknm1IV3A0MWLtug3iKoM0VZvxq5y3h/view?usp=sharing">Программа по развитию творческих способностей детей дошкольного возраста «Фантазеры»</a>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/12MlnbNaNmaSI7oyUlotrAmURWEclMF6-/view?usp=sharing">Программа по развитию творческих способностей детей дошкольного возраста «Волшебный завиток»</a>
-                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1OliloLrIJ0CzrmroD9c98nwq5nUOqlgy/view?usp=sharing">Программа по обучению детей дошкольного возраста игре в шашки «Умная шашка»</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1Uf2zZYCqAfziEtM3J_8oFYuy6uA_nf8L/view?usp=sharing">Программа по развитию творческих способностей детей дошкольного возраста «Волшебный квиллин»</a>
+                                    <a class="menu__link" target="_blank" href="">Программа по развитию творческих способностей детей дошкольного возраста «Изонить»</a>
                                 </div>
 
                             </div>

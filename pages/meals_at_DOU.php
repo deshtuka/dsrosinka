@@ -106,6 +106,7 @@
                                             <details class="tree-nav__item is-expandable">
                                                 <summary class="tree-nav__item-title">Сентябрь 2023</summary>
                                                 <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1YXJsutIcQoxefLGc4r0_85_K7JqLC-d2/view?usp=sharing">с 11 по 15 сентября</a>
                                                     <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/14RZCGuPcNs9WUN9yRpNKVm3D112joCwq/view?usp=sharing">с 1 по 8 сентября</a>
                                                 </div>
                                             </details>
