@@ -158,7 +158,9 @@
                                         <div class="menu__title">Рабочие программы для детей дошкольного возраста (2023-2024г)</div>
                                     </div>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1RQQPfCaBuRvJ8CkGDOkw7RmF2upobvr1/view?usp=sharing">Рабочая программа образовательной деятельности в младшей группе общеобразовательной направленности</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/17_iQLd0BNgehYkJjqeQYhMm6rGGuAgeu/view?usp=sharing">Рабочая программа образовательной деятельности в средней группе общеобразовательной направленности</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/10nLczzIOeFT9fwoU00RZ4sM57byQsklb/view?usp=sharing">Рабочая программа образовательной деятельности в старшей группе общеобразовательной направленности</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1imjZKyY0fxGLs5H3bqb22W9wqdAqR7u2/view?usp=sharing">Рабочая программа образовательной деятельности в подготовительной группе общеобразовательной направленности</a>
                                 </div>
 
                                 <div class="menu__item body_green">
