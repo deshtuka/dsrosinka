@@ -125,7 +125,7 @@
                                         <div class="item__logo">
                                             <img src="/assets/images/file_icon/pdf.png">
                                         </div>
-                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1q2mbBKF210GMytd6YDCbUD6kwduWiEqb/view?usp=sharing">Расписание НОД на 2022-2023 уч. год</a>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1pPfIHei0NJYA2bHJMKM2NKy_JkOayFZi/view?usp=sharing">Расписание занятий на 2023-2024 учебный год</a>
                                     </div>
                                 </div>
                                 <div class="menu__item body_yellow">
@@ -133,7 +133,7 @@
                                         <div class="item__logo">
                                             <img src="/assets/images/file_icon/pdf.png">
                                         </div>
-                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1b1cred8nEb2ABBWRUt2o4FCopZg6usbB/view?usp=sharing">Годовой календарный график на 2022-2023 учебный год</a>
+                                        <a class="menu__title" target="_blank" href="https://drive.google.com/file/d/1DuhWaSk0ekYxtYmMGNlUjJX5KsLp3OlO/view?usp=sharing">Годовой календарный график на 2023-2024 учебный год</a>
                                     </div>
                                 </div>
                                 <div class="menu__item body_yellow">
@@ -157,6 +157,7 @@
                                     <div class="menu__header_slider">
                                         <div class="menu__title">Рабочие программы для детей дошкольного возраста (2023-2024г)</div>
                                     </div>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1j1U5Lsu6PGyJvbjZb4j1b3A-YUyaFwm7/view?usp=sharing">Рабочая программа образовательной деятельности в группе раннего возраста общеобразовательной направленности</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1RQQPfCaBuRvJ8CkGDOkw7RmF2upobvr1/view?usp=sharing">Рабочая программа образовательной деятельности в младшей группе общеобразовательной направленности</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/17_iQLd0BNgehYkJjqeQYhMm6rGGuAgeu/view?usp=sharing">Рабочая программа образовательной деятельности в средней группе общеобразовательной направленности</a>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/10nLczzIOeFT9fwoU00RZ4sM57byQsklb/view?usp=sharing">Рабочая программа образовательной деятельности в старшей группе общеобразовательной направленности</a>
@@ -168,7 +169,7 @@
                                         <div class="menu__title">«Программы дополнительного образования»</div>
                                     </div>
                                     <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1Uf2zZYCqAfziEtM3J_8oFYuy6uA_nf8L/view?usp=sharing">Программа по развитию творческих способностей детей дошкольного возраста «Волшебный квиллин»</a>
-                                    <a class="menu__link" target="_blank" href="">Программа по развитию творческих способностей детей дошкольного возраста «Изонить»</a>
+                                    <a class="menu__link" target="_blank" href="https://drive.google.com/file/d/1aGZmlsV5zwroc0mZq6NNinpTTldNU3Es/view?usp=sharing">Программа по развитию творческих способностей детей дошкольного возраста «Изонить»</a>
                                 </div>
 
                             </div>
