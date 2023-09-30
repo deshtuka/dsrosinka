@@ -41,7 +41,11 @@
     align-items: center;
 }
 
-
+/* картинки - справочной службы */
+.image__service {
+    width: 110%;
+    height: auto;
+}
 /* картинка на странице */
 .image__minimized:hover {
     box-shadow: 0 0 10px #444;  /* Тень */
