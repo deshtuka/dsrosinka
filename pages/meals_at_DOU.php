@@ -104,6 +104,14 @@
                                             <summary class="tree-nav__item-title">Ежедневное меню</summary>
 
                                             <details class="tree-nav__item is-expandable">
+                                                <summary class="tree-nav__item-title">Октябрь 2023</summary>
+                                                <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/17GfF55FF5dTmnpnFPhVjifnCLE_ttL3O/view?usp=sharing">с 9 по 13 октября</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1xG3HsTlqPkuhyQE1xdxfcy1beFkx-ZW8/view?usp=sharing">с 2 по 6 октября</a>
+                                                </div>
+                                            </details>
+
+                                            <details class="tree-nav__item is-expandable">
                                                 <summary class="tree-nav__item-title">Сентябрь 2023</summary>
                                                 <div class="tree-nav__item">
                                                     <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1sUxuKnIUmCptqJxCMVUn8JaeOtuqeAuL/view?usp=sharing">с 25 по 29 сентября</a>
