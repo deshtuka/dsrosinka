@@ -102,6 +102,11 @@
                             <a href="/pages/nezavisimaya_ocenka_kachestva_obrazovaniya.php" class="menu__title">Независимая оценка качества образования</a>
                         </div>
                     </div>
+                    <div class="menu__item">
+                        <div class="menu__header">
+                            <a href="/pages/stazhirovochnaya_ploshchadka.php" class="menu__title">Стажировочная площадка</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

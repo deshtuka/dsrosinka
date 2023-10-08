@@ -8,5 +8,7 @@
 /httpRequests/
 # Окружение проекта
 /.idea
+# Тест
+test.html
 # Авторизация для получения сертификата SSL
 /.well-known
