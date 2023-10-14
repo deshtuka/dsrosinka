@@ -106,6 +106,7 @@
                                             <details class="tree-nav__item is-expandable">
                                                 <summary class="tree-nav__item-title">Октябрь 2023</summary>
                                                 <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1oNZrsBkgn43AbXooIl--SMaNfWEjKOp_/view?usp=sharing">с 23 по 27 октября</a>
                                                     <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1W4NGq_F_ZAsV-ueH-ZGXLKbp2KB7cQjK/view?usp=sharing">с 16 по 20 октября</a>
                                                     <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/17GfF55FF5dTmnpnFPhVjifnCLE_ttL3O/view?usp=sharing">с 9 по 13 октября</a>
                                                     <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1xG3HsTlqPkuhyQE1xdxfcy1beFkx-ZW8/view?usp=sharing">с 2 по 6 октября</a>
