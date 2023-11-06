@@ -106,6 +106,7 @@
                                             <details class="tree-nav__item is-expandable">
                                                 <summary class="tree-nav__item-title text__green">Ноябрь 2023</summary>
                                                 <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1ixGup74m0sjMU1ttUgL__jynkqnbSdko/view?usp=sharing">с 7 по 10 ноября</a>
                                                     <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1rKWUTKqKPy8i_PtR469FFAM_5tGVb51G/view?usp=sharing">с 1 по 3 ноября</a>
                                                 </div>
                                             </details>
