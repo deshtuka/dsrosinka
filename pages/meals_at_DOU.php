@@ -106,6 +106,9 @@
                                             <details class="tree-nav__item is-expandable">
                                                 <summary class="tree-nav__item-title text__green">Декабрь 2023</summary>
                                                 <div class="tree-nav__item">
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1x_BbPXd2lrtu3R0iAtyAQA6p0AAvMRlQ/view?usp=sharing">с 18 по 22 декабря</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1neUSTKQFXMN__dc5_98lal9-kBbKZEVJ/view?usp=sharing">с 11 по 15 декабря</a>
+                                                    <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1TaaC1x_lEMQVQvHx9Op8FgfCHw-kpMFW/view?usp=sharing">с 4 по 8 декабря</a>
                                                     <a class="tree-nav__item-title" target="_blank" href="https://drive.google.com/file/d/1cigd7gD90kRiq0gxaDi8g8WvlsSJjD2-/view?usp=sharing">1 декабря</a>
                                                 </div>
                                             </details>
